@@ -9,9 +9,9 @@
     },
     "items": [
         {
-            "title": "Video 1",
-            "playerLabel": "Video 1",
-            "action": "video:http://msx.benzac.de/media/video1.mp4"
+            "title": "Shrimad Ramayan",
+            "playerLabel": "Shrimad Ramayan",
+            "action": "video:https://primepixelmedia.in/ramayan/videos/ShrimadRamayanEpisode90.mp4"
         },
         {
             "title": "Video 2",
