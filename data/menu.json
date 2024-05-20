@@ -21,19 +21,19 @@
             "data": "https://infinitytechcmp.github.io/msx/data/base/ramayan.json"
         },
         {
-            "icon": "Google Drive",
-            "label": "Audios",
-            "data": "menu:request:interaction:init@https://gd.msx.benzac.de/interaction"
+            "icon": "movie",
+            "label": "Google Drive",
+            "data": "https://tinyurl.com/a6bfzszh"
         },
         {
             "icon": "image",
             "label": "Images",
-            "data": "https://benzac-de.github.io/msx/data/base/images.json"
+            "data": "https://infinitytechcmp.github.io/msx/data/base/images.json"
         },
         {
             "icon": "smart-display",
             "label": "YouTube",
-            "data": "https://benzac-de.github.io/msx/data/base/youtube.json"
+            "data": "https://infinitytechcmp.github.io/msx/data/base/youtube.json"
         }
     ]
 }

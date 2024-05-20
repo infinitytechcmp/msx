@@ -11,12 +11,12 @@
         {
             "title": "Sony TV",
             "playerLabel": "Sony TV",
-            "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://mhdtvweb.com/sony/watch.php?id=1000009246&e=.m3u8"
+            "action": "video:https://mhdtvweb.com/sony/watch.php?id=1000009246&e=.m3u8"
         },
         {
             "title": "Jio Cricket Live",
             "playerLabel": "Jio Cricket Live",
-            "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports_24x7_IDC/Fallback/index.m3u8"
+            "action": "video:https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports_24x7_IDC/Fallback/index.m3u8"
         }
     ]
 }
