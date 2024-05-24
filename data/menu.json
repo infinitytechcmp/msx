@@ -24,11 +24,11 @@
                 "pages": [{  
                         "items": [
                             {
-                                "type": "button",
-                                "icon": "apps",
+                                "type": "teaser",
                                 "layout": "0,0,3,3",                          
                                 "label": "Shrimad Ramayan",
-                                "background": "https://origin-staticv2.sonyliv.com/videoasset_images/ramayan_landscape_thumb_1.jpg",
+                                "image": "https://origin-staticv2.sonyliv.com/videoasset_images/ramayan_landscape_thumb_1.jpg",
+                                "imageFiller":"height-left",
                                 "action": "content:https://infinitytechcmp.github.io/msx/data/base/ramayan.json"
                             },
                             {
