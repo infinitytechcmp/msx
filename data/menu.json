@@ -3,7 +3,7 @@
     "menu": [
         {
             "icon": "info",
-            "label": "Welcome",
+            "label": "Start Guide",
             "data": "https://infinitytechcmp.github.io/msx/data/welcome.json"
         },
         {
@@ -18,7 +18,7 @@
         },
         {            
             "label": "Tv Shows",
-            "background": "https://www.orissapost.com/wp-content/uploads/2020/04/indian-tv-750x375.jpg",
+            "icon": "movie",
             "data": {               
                 "pages": [{  
                         "items": [
