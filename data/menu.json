@@ -4,7 +4,8 @@
         {
             "icon": "info",
             "label": "Start Guide",
-            "data": "https://infinitytechcmp.github.io/msx/data/welcome.json"
+            "data": "https://infinitytechcmp.github.io/msx/data/welcome.json",
+            "background": "https://primepixelmedia.in/avmstudio.png"
         },
         {
             "type": "separator",
