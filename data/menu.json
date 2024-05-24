@@ -8,32 +8,37 @@
         },
         {
             "type": "separator",
-            "label": "Base"
+            "label": "UseFul Links"
         },
         {
             "icon": "movie",
             "label": "Live Tv",
-            "data": "https://infinitytechcmp.github.io/msx/data/base/videos.json"
+            "data": "https://infinitytechcmp.github.io/msx/data/base/videos.json",
+            "background": "https://wallpapercave.com/wp/wp1848658.jpg"
         },
-        {
-            "icon": "movie",
-            "label": "Shrimad Ramayan",
-            "data": "https://infinitytechcmp.github.io/msx/data/base/ramayan.json"
-        },
-        {
-            "icon": "movie",
-            "label": "Google Drive",
-            "data": "https://tinyurl.com/a6bfzszh"
-        },
-        {
-            "icon": "image",
-            "label": "Images",
-            "data": "https://infinitytechcmp.github.io/msx/data/base/images.json"
+        {            
+            "label": "Tv Shows",
+            "background": "https://www.orissapost.com/wp-content/uploads/2020/04/indian-tv-750x375.jpg",
+            "data": {               
+                "pages": [{  
+                        "items": [
+                            {
+                                "type": "button",
+                                "icon": "apps",
+                                "layout": "3,0,3,3",                          
+                                "label": "Shrimad Ramayan",
+                                "background": "https://origin-staticv2.sonyliv.com/videoasset_images/ramayan_landscape_thumb_1.jpg",
+                                "action": "content:https://infinitytechcmp.github.io/msx/data/base/ramayan.json"
+                            }
+                        ]
+                    }]
+            }
         },
         {
             "icon": "smart-display",
             "label": "YouTube",
-            "data": "https://infinitytechcmp.github.io/msx/data/base/youtube.json"
+            "data": "https://infinitytechcmp.github.io/msx/data/base/youtube.json",
+            "background": "https://wallpapers.com/images/hd/youtube-background-ezou9wzqzl3iscer.jpg"
         }
     ]
 }

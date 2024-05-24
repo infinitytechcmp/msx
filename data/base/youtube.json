@@ -13,24 +13,6 @@
             "playerLabel": "Welcome Hindi Movie - Akshay Kumar - Comedy Movie",
             "image": "https://img.youtube.com/vi/AKiynoClCaA/hqdefault.jpg",
             "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=AKiynoClCaA"
-        },
-        {
-            "title": "How To Use Google Drive MSX",
-            "playerLabel": "How To Use Google Drive MSX",
-            "image": "https://img.youtube.com/vi/pfHOmhmeTzo/hqdefault.jpg",
-            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=pfHOmhmeTzo"
-        },
-        {
-            "title": "MRSS Launcher",
-            "playerLabel": "MRSS Launcher",
-            "image": "https://img.youtube.com/vi/tOAAg3h1_U8/hqdefault.jpg",
-            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=tOAAg3h1_U8"
-        },
-        {
-            "title": "TV Benchmark Tests",
-            "playerLabel": "TV Benchmark Tests",
-            "image": "https://img.youtube.com/vi/9A_I_ZqbWkM/hqdefault.jpg",
-            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=9A_I_ZqbWkM"
         }
     ]
 }

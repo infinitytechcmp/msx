@@ -1,0 +1,58 @@
+{
+    "headline": "Test Menu",
+    "menu": [
+       {
+          "label": "Kapil Sharma Show Netflix",
+          "background": "https://occ-0-7338-2186.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABTMF7taHsCN9QYliemcrrc9q5BVfjQiAOlyBjD1K74So1wFm4x1cZoIkEfvGQlxbzdWwqT9kDRGp9Dic2IGkN-rIVLIMtroYYSdv.jpg?r=752"
+       },
+       {
+          "type": "separator"
+       },
+       {
+          "icon": "home",
+          "label": "Shrimad Ramayan",
+          "background": "https://origin-staticv2.sonyliv.com/videoasset_images/ramayan_landscape_thumb_sp.jpg"
+       },
+       {
+          "icon": "person",
+          "label": "New Movies",
+          "background": "https://e0.pxfuel.com/wallpapers/863/373/desktop-wallpaper-list-of-top-10-bollywood-films-remade-bollywood-movie-collage.jpg",
+          "extensionLabel": "123"
+       },
+       {
+          "icon": "star",
+          "label": "Live Tv",
+          "background": "https://wallpapercave.com/wp/wp1848653.jpg",
+          "extensionIcon": "music-note"
+       },
+       {
+          "type": "separator",
+          "label": "Separator With Label"
+       },
+       {
+          "label": "Menu Item With Background",
+          "background": "http://msx.benzac.de/img/bg5.jpg"
+       },
+       {
+          "label": "Menu Item With Data Link",
+          "data": "https://gd.msx.benzac.de/"
+       },
+       {
+          "label": "Menu Item With Data Object",
+          "data": {
+             "pages": [
+                {
+                   "items": [
+                      {
+                         "layout": "0,0,12,6",
+                         "color": "msx-glass",
+                         "headline": "Content Placeholder",
+                         "text": "This is just a placeholder."
+                      }
+                   ]
+                }
+             ]
+          }
+       }
+    ]
+ }
