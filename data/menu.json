@@ -26,6 +26,14 @@
                             {
                                 "type": "button",
                                 "icon": "apps",
+                                "layout": "0,0,3,3",                          
+                                "label": "Shrimad Ramayan",
+                                "background": "https://origin-staticv2.sonyliv.com/videoasset_images/ramayan_landscape_thumb_1.jpg",
+                                "action": "content:https://infinitytechcmp.github.io/msx/data/base/ramayan.json"
+                            },
+                            {
+                                "type": "button",
+                                "icon": "apps",
                                 "layout": "3,0,3,3",                          
                                 "label": "Shrimad Ramayan",
                                 "background": "https://origin-staticv2.sonyliv.com/videoasset_images/ramayan_landscape_thumb_1.jpg",
