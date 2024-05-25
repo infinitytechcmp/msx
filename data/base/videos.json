@@ -83,6 +83,17 @@
             "alignment":"center",
             "tag":"Live",
             "tagColor":"msx-red"
+        },
+        {
+            "type": "teaser",
+            "layout": "0,0,2,2",   
+            "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD21000016Y_20230726T002252SQUARE.png_20230726002253.png",
+            "imageFiller":"height-left",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8",
+            "titleFooter":"The Movie Club",
+            "alignment":"center",
+            "tag":"Live",
+            "tagColor":"msx-red"
         }
     ]
 }
