@@ -12,7 +12,7 @@
             "layout": "0,0,2,2",   
             "image": "https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png",
             "imageFiller":"height-left",
-            "action": "video:https://mhdtvweb.com/sony/watch.php?id=1000009246&e=.m3u8",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://mhdtvweb.com/sony/watch.php?id=1000009246&e=.m3u8",
             "titleFooter":"Sony TV",
             "alignment":"center",
             "tag":"Live",
