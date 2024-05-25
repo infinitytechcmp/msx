@@ -11,22 +11,22 @@
         {
             "title": "Shrimad Ramayan 20th May 2024 Video Episode 99",
             "playerLabel": "Shrimad Ramayan 20th May 2024 Video Episode 99",
-            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://si.videoapne.to/hls/bdohxrci7bboxuzvta674eihrl4i7fgy4tjdqwiffu2in5xso6qdtixvduyq/index-v1-a1.m3u8"
+            "action": "video:https://si.videoapne.to/hls/bdohxrci7bboxuzvta674eihrl4i7fgy4tjdqwiffu2in5xso6qdtixvduyq/index-v1-a1.m3u8"
         },
         {
             "title": "Shrimad Ramayan 21st May 2024 Video Episode 100",
             "playerLabel": "Shrimad Ramayan 21st May 2024 Video Episode 100",
-            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://si.videoapne.to/hls/bdohwdki7bboxuzvta674byv34gzp46ypfcqw3mb37fnqljktmr5hbvw6gna/index-v1-a1.m3u8"
+            "action": "video:https://si.videoapne.to/hls/bdohwdki7bboxuzvta674byv34gzp46ypfcqw3mb37fnqljktmr5hbvw6gna/index-v1-a1.m3u8"
         },
         {
             "title": "Shrimad Ramayan 22nd May 2024 Video Episode 101",
             "playerLabel": "Shrimad Ramayan 22nd May 2024 Video Episode 101",
-            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://s2.videoapne.to/hls/bdohwxci7bboxuzvta674tqktnfl63edcjsmwjt23f5fv34uffzbbndlalpa/index-v1-a1.m3u8"
+            "action": "video:https://s2.videoapne.to/hls/bdohwxci7bboxuzvta674tqktnfl63edcjsmwjt23f5fv34uffzbbndlalpa/index-v1-a1.m3u8"
         },
         {
             "title": "Shrimad Ramayan 24th May 2024 Video Episode 103",
             "playerLabel": "Shrimad Ramayan 24th May 2024 Video Episode 103",
-            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://s2.videoapne.to/hls/bdohx5kj7bboxuzvta674haqroqeub534jddwh7rbfsbx5pkqqth2x5jskla/index-v1-a1.m3u8"
+            "action": "video:https://s2.videoapne.to/hls/bdohx5kj7bboxuzvta674haqroqeub534jddwh7rbfsbx5pkqqth2x5jskla/index-v1-a1.m3u8"
         }
     ]
 }
