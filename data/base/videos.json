@@ -281,6 +281,17 @@
             "alignment":"center",
             "tag":"Live",
             "tagColor":"msx-red"
+        },
+        {
+            "type": "teaser",
+            "layout": "0,0,2,2",   
+            "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
+            "imageFiller":"height-center",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://madplay.live/hls/jiotv/stream.php?id=165&e=.m3u8",
+            "titleFooter":"Zee Cinema HD",
+            "alignment":"center",
+            "tag":"Live",
+            "tagColor":"msx-red"
         }
     ]
 }
