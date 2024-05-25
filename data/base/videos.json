@@ -39,6 +39,50 @@
             "alignment":"center",
             "tag":"Live",
             "tagColor":"msx-red"
+        },
+        {
+            "type": "teaser",
+            "layout": "0,0,2,2",   
+            "image": "https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png",
+            "imageFiller":"height-left",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://mhdtvweb.com/sony/watch.php?id=1000009259&e=.m3u8",
+            "titleFooter":"Sony MARATHI",
+            "alignment":"center",
+            "tag":"Live",
+            "tagColor":"msx-red"
+        },
+        {
+            "type": "teaser",
+            "layout": "0,0,2,2",   
+            "image": "https://sonypicturesnetworks.com/images/logos/Sony_MAX.png",
+            "imageFiller":"height-left",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://mhdtvweb.com/sony/watch.php?id=1000009249&e=.m3u8",
+            "titleFooter":"Sony MAX",
+            "alignment":"center",
+            "tag":"Live",
+            "tagColor":"msx-red"
+        },
+        {
+            "type": "teaser",
+            "layout": "0,0,2,2",   
+            "image": "https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png",
+            "imageFiller":"height-left",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://mhdtvweb.com/sony/watch.php?id=1000044878&e=.m3u8",
+            "titleFooter":"Sony MAX 2",
+            "alignment":"center",
+            "tag":"Live",
+            "tagColor":"msx-red"
+        },
+        {
+            "type": "teaser",
+            "layout": "0,0,2,2",   
+            "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",
+            "imageFiller":"height-left",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/index.m3u8",
+            "titleFooter":"Colors HD",
+            "alignment":"center",
+            "tag":"Live",
+            "tagColor":"msx-red"
         }
     ]
 }
