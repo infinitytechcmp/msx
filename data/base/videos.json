@@ -94,6 +94,149 @@
             "alignment":"center",
             "tag":"Live",
             "tagColor":"msx-red"
+        },
+        {
+            "type": "teaser",
+            "layout": "0,0,2,2",   
+            "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700006JD_20240417T022449SQUARE.png",
+            "imageFiller":"height-left",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://i.mjh.nz/SamsungTVPlus/INBD4700006JD.m3u8",
+            "titleFooter":"Comedy King",
+            "alignment":"center",
+            "tag":"Live",
+            "tagColor":"msx-red"
+        },
+        {
+            "type": "teaser",
+            "layout": "0,0,2,2",   
+            "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800003RQ_20240131T032341SQUARE.png_20240131032342.png",
+            "imageFiller":"height-left",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://i.mjh.nz/SamsungTVPlus/INBC2800003RQ.m3u8",
+            "titleFooter":"Aaj Tak",
+            "alignment":"center",
+            "tag":"Live",
+            "tagColor":"msx-red"
+        },
+        {
+            "type": "teaser",
+            "layout": "0,0,2,2",   
+            "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800002WJ_20240131T032338SQUARE.png_20240131032339.png",
+            "imageFiller":"height-left",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://i.mjh.nz/SamsungTVPlus/INBC2800002WJ.m3u8",
+            "titleFooter":"NDTV India",
+            "alignment":"center",
+            "tag":"Live",
+            "tagColor":"msx-red"
+        },
+        {
+            "type": "teaser",
+            "layout": "0,0,2,2",   
+            "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA490002119_20240131T032328SQUARE.png_20240131032329.png",
+            "imageFiller":"height-left",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://i.mjh.nz/SamsungTVPlus/INBA490002119.m3u8",
+            "titleFooter":"Republic Bharat",
+            "alignment":"center",
+            "tag":"Live",
+            "tagColor":"msx-red"
+        },
+        {
+            "type": "teaser",
+            "layout": "0,0,2,2",   
+            "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400006H0_20240131T032404SQUARE.png_20240131032405.png",
+            "imageFiller":"height-left",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://i.mjh.nz/SamsungTVPlus/INBD400006H0.m3u8",
+            "titleFooter":"ABP News",
+            "alignment":"center",
+            "tag":"Live",
+            "tagColor":"msx-red"
+        },
+        {
+            "type": "teaser",
+            "layout": "0,0,2,2",   
+            "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300010Z6_20240131T032349SQUARE.png_20240131032350.png",
+            "imageFiller":"height-left",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://i.mjh.nz/SamsungTVPlus/INBC4300010Z6.m3u8",
+            "titleFooter":"Zee News",
+            "alignment":"center",
+            "tag":"Live",
+            "tagColor":"msx-red"
+        },
+        {
+            "type": "teaser",
+            "layout": "0,0,2,2",   
+            "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300010WP_20240131T032356SQUARE.png_20240131032357.png",
+            "imageFiller":"height-left",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://i.mjh.nz/SamsungTVPlus/INBD1300010WP.m3u8",
+            "titleFooter":"News18 India",
+            "alignment":"center",
+            "tag":"Live",
+            "tagColor":"msx-red"
+        },
+        {
+            "type": "teaser",
+            "layout": "0,0,2,2",   
+            "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800005X4_20240131T032450SQUARE.png_20240131032451.png",
+            "imageFiller":"height-left",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://i.mjh.nz/SamsungTVPlus/INBC2800005X4.m3u8",
+            "titleFooter":"India Today",
+            "alignment":"center",
+            "tag":"Live",
+            "tagColor":"msx-red"
+        },
+        {
+            "type": "teaser",
+            "layout": "0,0,2,2",   
+            "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900020A5_20240131T032253SQUARE.png_20240131032254.png",
+            "imageFiller":"height-left",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://i.mjh.nz/SamsungTVPlus/INBA4900020A5.m3u8",
+            "titleFooter":"Republic TV",
+            "alignment":"center",
+            "tag":"Live",
+            "tagColor":"msx-red"
+        },
+        {
+            "type": "teaser",
+            "layout": "0,0,2,2",   
+            "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD25000021N_20240131T032516SQUARE.png_20240131032517.png",
+            "imageFiller":"height-left",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://i.mjh.nz/SamsungTVPlus/INBD25000021N.m3u8",
+            "titleFooter":"News9 Live",
+            "alignment":"center",
+            "tag":"Live",
+            "tagColor":"msx-red"
+        },
+        {
+            "type": "teaser",
+            "layout": "0,0,2,2",   
+            "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500006OC_20240131T032532SQUARE.png_20240131032533.png",
+            "imageFiller":"height-left",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://i.mjh.nz/SamsungTVPlus/INBD2500006OC.m3u8",
+            "titleFooter":"TV9 Marathi",
+            "alignment":"center",
+            "tag":"Live",
+            "tagColor":"msx-red"
+        },
+        {
+            "type": "teaser",
+            "layout": "0,0,2,2",   
+            "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400008VR_20240131T032438SQUARE.png_20240131032439.png",
+            "imageFiller":"height-left",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://i.mjh.nz/SamsungTVPlus/INBD400008VR.m3u8",
+            "titleFooter":"ABP Majha",
+            "alignment":"center",
+            "tag":"Live",
+            "tagColor":"msx-red"
+        },
+        {
+            "type": "teaser",
+            "layout": "0,0,2,2",   
+            "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400001CP_20240131T032544SQUARE.png_20240131032545.png",
+            "imageFiller":"height-left",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://i.mjh.nz/SamsungTVPlus/INBD400001CP.m3u8",
+            "titleFooter":"Zee 24 Taas",
+            "alignment":"center",
+            "tag":"Live",
+            "tagColor":"msx-red"
         }
     ]
 }
