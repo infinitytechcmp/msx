@@ -3,20 +3,19 @@
     "headline": "Videos",
     "template": {
         "type": "separate",
-        "layout": "0,0,2,4",
-        "icon": "msx-white-soft:movie",
+        "layout": "0,0,2,2",
         "color": "msx-glass"
     },
     "items": [
         {
-            "title": "Sony TV",
-            "playerLabel": "Sony TV",
-            "action": "video:https://mhdtvweb.com/sony/watch.php?id=1000009246&e=.m3u8"
-        },
-        {
-            "title": "Jio Cricket Live",
-            "playerLabel": "Jio Cricket Live",
-            "action": "video:https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports_24x7_IDC/Fallback/index.m3u8"
+            "type": "teaser",
+            "layout": "0,0,2,2",   
+            "image": "https://primepixelmedia.in/avmstudio/thumb/ramayan_thumb.jpg",
+            "imageFiller":"height-left",
+            "action": "video:https://mhdtvweb.com/sony/watch.php?id=1000009246&e=.m3u8",
+            "titleFooter":"Sony TV",
+            "tag":"Live",
+            "tagColor":"msx-red"
         }
     ]
 }
