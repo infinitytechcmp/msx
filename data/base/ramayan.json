@@ -21,7 +21,7 @@
         {
             "title": "Video 3",
             "playerLabel": "Video 3",
-            "action": "video:http://msx.benzac.de/media/video3.mp4"
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://previews.dropbox.com/p/hls_playlist/ACTD_2JgLrlGMsUxbb8gXro6wVSEfFax9b1TSbPV6KMalYMqGetrV1ErP1O0PtZ8_1Jx-nRgVzlUZdnE6E7mZCMxVMSvzijIhQc4FrsQyur5IDh6YgCHGmTCgtlIcSTLtYY_3akbxMcewRoTz7sTbUqv1NlR_UkvQc_NbAm8tqHpWwPDo-KFgPx2lMzmuakVJAR-bjBuu-oT2XHI-fjCdelNnWFAjkcgQi7cAm-cYtcnrv8pjSCwMQVrd4zJS1KzMbilImZKmytO_gxTSrlK6ub19jHe7SGvXOtryQiyEEXhblpaN_nRA1x0w_5l0WouVlro75hhdxVdu4UlBf6Dg6LV9E8e3fIMIKWR0VZJ2aQo4ghM9t87hNt1FC_cs_X9NQI_u0TXx6ePyu-ExpmzhCcj/p.m3u8?hw_acceleration=False&size=1920x1080&type=video"
         }
     ]
 }
