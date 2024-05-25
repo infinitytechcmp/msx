@@ -3,25 +3,30 @@
     "headline": "Shrimad Ramayan Videos",
     "template": {
         "type": "separate",
-        "layout": "0,0,2,4",
+        "layout": "0,0,3,3",
         "icon": "msx-white-soft:movie",
         "color": "msx-glass"
     },
     "items": [
         {
-            "title": "Shrimad Ramayan",
-            "playerLabel": "Shrimad Ramayan",
-            "action": "video:https://primepixelmedia.in/ramayan/videos/ShrimadRamayanEpisode90.mp4"
+            "title": "Shrimad Ramayan 20th May 2024 Video Episode 99",
+            "playerLabel": "Shrimad Ramayan 20th May 2024 Video Episode 99",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://si.videoapne.to/hls/bdohxrci7bboxuzvta674eihrl4i7fgy4tjdqwiffu2in5xso6qdtixvduyq/index-v1-a1.m3u8"
         },
         {
-            "title": "Video 2",
-            "playerLabel": "Video 2",
-            "action": "video:https://htmedia.sonyliv.com/DASH/8a687702-07a9-4f2d-86e7-3d5d38df6738/lives_show_set_ramayan_ep019_india_rev.mpd?contentId=1000262657&cpCustomerId=2405181150300591246&deviceId=30c057aa-675f-4a54-91db-94e186bd4e99&partner=HT_MEDIA&partnerId=1556784386&platform=web&user-agent=axios%2F1.7.2&hdnea=exp%3D1716676488%7Eacl%3D*%7Eid%3D15567843862405181150300591246%7Ehmac%3Dcff5759ff01560b4a3527eca7364475a79d8ef84d555796ae703a545d30ad61e&sku_name=liv_premium_htmedia_1m&CMCD=cid%3D%222ae31d595c3c%22%2Cot%3Dm%2Csid%3D%22da3420f8-ded3-4c08-adc9-0e7a4aa5859a%22"
+            "title": "Shrimad Ramayan 21st May 2024 Video Episode 100",
+            "playerLabel": "Shrimad Ramayan 21st May 2024 Video Episode 100",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://si.videoapne.to/hls/bdohwdki7bboxuzvta674byv34gzp46ypfcqw3mb37fnqljktmr5hbvw6gna/index-v1-a1.m3u8"
         },
         {
-            "title": "Video 3",
-            "playerLabel": "Video 3",
-            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://previews.dropbox.com/p/hls_playlist/ACTD_2JgLrlGMsUxbb8gXro6wVSEfFax9b1TSbPV6KMalYMqGetrV1ErP1O0PtZ8_1Jx-nRgVzlUZdnE6E7mZCMxVMSvzijIhQc4FrsQyur5IDh6YgCHGmTCgtlIcSTLtYY_3akbxMcewRoTz7sTbUqv1NlR_UkvQc_NbAm8tqHpWwPDo-KFgPx2lMzmuakVJAR-bjBuu-oT2XHI-fjCdelNnWFAjkcgQi7cAm-cYtcnrv8pjSCwMQVrd4zJS1KzMbilImZKmytO_gxTSrlK6ub19jHe7SGvXOtryQiyEEXhblpaN_nRA1x0w_5l0WouVlro75hhdxVdu4UlBf6Dg6LV9E8e3fIMIKWR0VZJ2aQo4ghM9t87hNt1FC_cs_X9NQI_u0TXx6ePyu-ExpmzhCcj/p.m3u8?hw_acceleration=False&size=1920x1080&type=video"
+            "title": "Shrimad Ramayan 22nd May 2024 Video Episode 101",
+            "playerLabel": "Shrimad Ramayan 22nd May 2024 Video Episode 101",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://s2.videoapne.to/hls/bdohwxci7bboxuzvta674tqktnfl63edcjsmwjt23f5fv34uffzbbndlalpa/index-v1-a1.m3u8"
+        },
+        {
+            "title": "Shrimad Ramayan 24th May 2024 Video Episode 103",
+            "playerLabel": "Shrimad Ramayan 24th May 2024 Video Episode 103",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://s2.videoapne.to/hls/bdohx5kj7bboxuzvta674haqroqeub534jddwh7rbfsbx5pkqqth2x5jskla/index-v1-a1.m3u8"
         }
     ]
 }
