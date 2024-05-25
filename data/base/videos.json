@@ -8,6 +8,18 @@
     },
     "items": [
         {
+            "title": "Link 1",
+            "action": "link:https://amitb3669.github.io/allinone_tataplay_web.html/star-plus.html"
+         },
+         {
+            "title": "Link 2",
+            "action": "link:https://amitb3669.github.io/allinone_tataplay_web.html/star-sports1-hindi.html"
+         },
+         {
+            "title": "Link 3",
+            "action": "link:https://amitb3669.github.io/allinone_tataplay_web.html/set-hd.html"
+         },
+        {
             "type": "teaser",
             "layout": "0,0,2,2",   
             "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
