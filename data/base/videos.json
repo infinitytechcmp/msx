@@ -10,17 +10,6 @@
         {
             "type": "teaser",
             "layout": "0,0,2,2",   
-            "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png",
-            "imageFiller":"height-center",
-            "action": "video:https://mhdtvweb.com/sony/watch.php?id=1000009246&e=.m3u8",
-            "titleFooter":"Sony SET",
-            "alignment":"center",
-            "tag":"Live",
-            "tagColor":"msx-red"
-        },
-        {
-            "type": "teaser",
-            "layout": "0,0,2,2",   
             "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
             "imageFiller":"height-center",
             "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://mhdtvweb.com/sony/watch.php?id=1000009246&e=.m3u8",
@@ -267,6 +256,39 @@
             "imageFiller":"height-center",
             "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8",
             "titleFooter":"Pogo",
+            "alignment":"center",
+            "tag":"Live",
+            "tagColor":"msx-red"
+        },
+        {
+            "type": "teaser",
+            "layout": "0,0,2,2",   
+            "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_TV.png",
+            "imageFiller":"height-center",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
+            "titleFooter":"Shemaroo Bollywood",
+            "alignment":"center",
+            "tag":"Live",
+            "tagColor":"msx-red"
+        },
+        {
+            "type": "teaser",
+            "layout": "0,0,2,2",   
+            "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_TV.png",
+            "imageFiller":"height-center",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8",
+            "titleFooter":"Shemaroo Filmigaane",
+            "alignment":"center",
+            "tag":"Live",
+            "tagColor":"msx-red"
+        },
+        {
+            "type": "teaser",
+            "layout": "0,0,2,2",   
+            "image": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56386-kfc14w60-v4/imageContent-56386-kfc14w60-m4.png",
+            "imageFiller":"height-center",
+            "action": "video:plugin:http://msx.benzac.de/plugins/dash.html?url=https://delta45tatasky.akamaized.net/out/i/554.mpd",
+            "titleFooter":"Shirdi Sai Baba",
             "alignment":"center",
             "tag":"Live",
             "tagColor":"msx-red"
