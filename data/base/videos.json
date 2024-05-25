@@ -263,7 +263,7 @@
         {
             "type": "teaser",
             "layout": "0,0,2,2",   
-            "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_TV.png",
+            "image": "https://images.ottplay.com/sub_posters/Shemaroo_Bollywood_2000_movie_sub_poster_1_316.jpeg",
             "imageFiller":"height-center",
             "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
             "titleFooter":"Shemaroo Bollywood",

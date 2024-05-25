@@ -16,7 +16,7 @@
         {
             "title": "Video 2",
             "playerLabel": "Video 2",
-            "action": "video:http://msx.benzac.de/media/video2.mp4"
+            "action": "video:plugin:http://msx.benzac.de/plugins/dash.html?url=https://htmedia.sonyliv.com/DASH/8a687702-07a9-4f2d-86e7-3d5d38df6738/lives_show_set_ramayan_ep019_india_rev.mpd?contentId=1000262657&cpCustomerId=2405181150300591246&deviceId=30c057aa-675f-4a54-91db-94e186bd4e99&partner=HT_MEDIA&partnerId=1556784386&platform=web&user-agent=axios%2F1.7.2&hdnea=exp%3D1716676488%7Eacl%3D*%7Eid%3D15567843862405181150300591246%7Ehmac%3Dcff5759ff01560b4a3527eca7364475a79d8ef84d555796ae703a545d30ad61e&sku_name=liv_premium_htmedia_1m&CMCD=cid%3D%222ae31d595c3c%22%2Cot%3Dm%2Csid%3D%22da3420f8-ded3-4c08-adc9-0e7a4aa5859a%22"
         },
         {
             "title": "Video 3",
