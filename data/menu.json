@@ -25,19 +25,23 @@
                         "items": [
                             {
                                 "type": "teaser",
-                                "layout": "0,0,3,3",                          
-                                "label": "Shrimad Ramayan",
-                                "image": "https://origin-staticv2.sonyliv.com/videoasset_images/ramayan_landscape_thumb_1.jpg",
+                                "layout": "0,0,3,3",   
+                                "image": "https://primepixelmedia.in/avmstudio/thumb/ramayan_thumb.jpg",
                                 "imageFiller":"height-left",
-                                "action": "content:https://infinitytechcmp.github.io/msx/data/base/ramayan.json"
+                                "action": "content:https://infinitytechcmp.github.io/msx/data/base/ramayan.json",
+                                "titleFooter":"Shrimad Ramayan",
+                                "tag":"2024",
+                                "tagColor":"msx-red"
                             },
                             {
-                                "type": "button",
-                                "icon": "apps",
-                                "layout": "3,0,3,3",                          
-                                "label": "Shrimad Ramayan",
-                                "background": "https://origin-staticv2.sonyliv.com/videoasset_images/ramayan_landscape_thumb_1.jpg",
-                                "action": "content:https://infinitytechcmp.github.io/msx/data/base/ramayan.json"
+                                "type": "teaser",
+                                "layout": "3,0,3,3",   
+                                "image": "https://primepixelmedia.in/avmstudio/thumb/gullak_thumb.jpg",
+                                "imageFiller":"height-left",
+                                "action": "content:https://infinitytechcmp.github.io/msx/data/base/ramayan.json",
+                                "titleFooter":"Gullak",
+                                "tag":"2024",
+                                "tagColor":"msx-red"
                             }
                         ]
                     }]
