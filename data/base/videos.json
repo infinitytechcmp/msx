@@ -10,7 +10,7 @@
         {
             "type": "teaser",
             "layout": "0,0,2,2",   
-            "image": "https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",
+            "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
             "imageFiller":"height-left",
             "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://mhdtvweb.com/sony/watch.php?id=1000009246&e=.m3u8",
             "titleFooter":"Sony SET",
@@ -21,7 +21,7 @@
         {
             "type": "teaser",
             "layout": "0,0,2,2",   
-            "image": "https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",
+            "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",
             "imageFiller":"height-left",
             "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://mhdtvweb.com/sony/watch.php?id=1000009248&e=.m3u8",
             "titleFooter":"Sony SAB",
@@ -32,7 +32,7 @@
         {
             "type": "teaser",
             "layout": "0,0,2,2",   
-            "image": "https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png",
+            "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",
             "imageFiller":"height-left",
             "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://mhdtvweb.com/sony/watch.php?id=1000009273&e=.m3u8",
             "titleFooter":"Sony PAL",
@@ -43,7 +43,7 @@
         {
             "type": "teaser",
             "layout": "0,0,2,2",   
-            "image": "https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png",
+            "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",
             "imageFiller":"height-left",
             "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://mhdtvweb.com/sony/watch.php?id=1000009259&e=.m3u8",
             "titleFooter":"Sony MARATHI",
@@ -54,7 +54,7 @@
         {
             "type": "teaser",
             "layout": "0,0,2,2",   
-            "image": "https://sonypicturesnetworks.com/images/logos/Sony_MAX.png",
+            "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
             "imageFiller":"height-left",
             "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://mhdtvweb.com/sony/watch.php?id=1000009249&e=.m3u8",
             "titleFooter":"Sony MAX",
@@ -65,7 +65,7 @@
         {
             "type": "teaser",
             "layout": "0,0,2,2",   
-            "image": "https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png",
+            "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",
             "imageFiller":"height-left",
             "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://mhdtvweb.com/sony/watch.php?id=1000044878&e=.m3u8",
             "titleFooter":"Sony MAX 2",
