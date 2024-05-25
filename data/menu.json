@@ -31,6 +31,7 @@
                                 "action": "content:https://infinitytechcmp.github.io/msx/data/base/ramayan.json",
                                 "titleFooter":"Shrimad Ramayan",
                                 "tag":"2024",
+                                "alignment":"center",
                                 "tagColor":"msx-red"
                             },
                             {
@@ -41,6 +42,7 @@
                                 "action": "content:https://infinitytechcmp.github.io/msx/data/base/ramayan.json",
                                 "titleFooter":"Gullak",
                                 "tag":"2024",
+                                "alignment":"center",
                                 "tagColor":"msx-red"
                             }
                         ]

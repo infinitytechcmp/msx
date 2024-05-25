@@ -10,10 +10,11 @@
         {
             "type": "teaser",
             "layout": "0,0,2,2",   
-            "image": "https://primepixelmedia.in/avmstudio/thumb/ramayan_thumb.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png",
             "imageFiller":"height-left",
             "action": "video:https://mhdtvweb.com/sony/watch.php?id=1000009246&e=.m3u8",
             "titleFooter":"Sony TV",
+            "alignment":"center",
             "tag":"Live",
             "tagColor":"msx-red"
         }
