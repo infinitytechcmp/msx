@@ -1,11 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:3
-
-#EXTINF:1413, Video 1
-https://si.videoapne.to/hls/bdohxrci7bboxuzvta674eihrl4i7fgy4tjdqwiffu2in5xso6qdtixvduyq/index-v1-a1.m3u8
-
-#EXTINF:1436, Video 2
-https://si.videoapne.to/hls/bdohwdki7bboxuzvta674byv34gzp46ypfcqw3mb37fnqljktmr5hbvw6gna/index-v1-a1.m3u8
-
-#EXTINF:1364, Video 3
-https://s2.videoapne.to/hls/bdohwxci7bboxuzvta674tqktnfl63edcjsmwjt23f5fv34uffzbbndlalpa/index-v1-a1.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
+https://adilo.bigcommand.com/3ae3b76e-4c77-4ebd-9026-8aaa4dfa86a9.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+https://adilo.bigcommand.com/b400cace-98a4-403f-a28a-1ce5df00c91e.m3u8
