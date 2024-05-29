@@ -1,4 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=250000
+#EXT-X-STREAM-INF:PROGRAM-ID=1
 https://primepixelmedia.in/ramayan-videos/videos/9.mp4
+#EXT-X-ENDLIST
