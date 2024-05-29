@@ -1,4 +1,32 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1
+#EXT-X-VERSION:3
+
+#EXTINF:1408, Video 1
 https://primepixelmedia.in/ramayan-videos/videos/9.mp4
-#EXT-X-ENDLIST
+
+#EXTINF:1451, Video 2
+https://primepixelmedia.in/ramayan-videos/videos/10.mp4
+
+#EXTINF:1399, Video 3
+https://primepixelmedia.in/ramayan-videos/videos/11.mp4
+
+#EXTINF:1408, Video 4
+https://primepixelmedia.in/ramayan-videos/videos/9.mp4
+
+#EXTINF:1451, Video 5
+https://primepixelmedia.in/ramayan-videos/videos/10.mp4
+
+#EXTINF:1399, Video 6
+https://primepixelmedia.in/ramayan-videos/videos/11.mp4
+
+#EXTINF:1408, Video 7
+https://primepixelmedia.in/ramayan-videos/videos/9.mp4
+
+#EXTINF:1451, Video 8
+https://primepixelmedia.in/ramayan-videos/videos/10.mp4
+
+#EXTINF:1399, Video 9
+https://primepixelmedia.in/ramayan-videos/videos/11.mp4
+
+#EXTINF:1408, Video 10
+https://primepixelmedia.in/ramayan-videos/videos/9.mp4
