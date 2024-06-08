@@ -1,0 +1,35 @@
+{
+    "type": "pages",
+    "headline": "Movies",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,3,3",
+        "color": "msx-glass"
+    },
+    "items": [
+        {
+            "title": "OMG Oh My God 2012",
+            "playerLabel": "OMG Oh My God 2012",
+            "image": "https://images.ottplay.com/images/OMG:_Oh_My_God!_2012_movie_tmdb_backdrop_1.jpg",
+            "icon": "https://images.ottplay.com/images/OMG:_Oh_My_God!_2012_movie_tmdb_backdrop_1.jpg",
+            "imageFiller":"height-center",
+            "action": "video:https://adilo.bigcommand.com/5de97f9d-cf8a-49be-b7ef-254779d18da3.mp4"
+        },
+        {
+            "title": "OMG2 2023",
+            "playerLabel": "OMG2 2023",
+            "image": "https://images.ottplay.com/images/omg-2-744.jpeg",
+            "icon": "https://images.ottplay.com/images/omg-2-744.jpeg",
+            "imageFiller":"height-center",
+            "action": "video:https://adilo.bigcommand.com/c2340796-64d4-4e71-993e-b014b8c5cb6e.mp4"
+        },
+        {
+            "title": "Mulshi Pattern 2018",
+            "playerLabel": "Mulshi Pattern 2018",
+            "image": "https://s3images.zee5.com/wp-content/uploads/sites/7/2020/08/Mulshi-Pattern-Movie-Poster-1.jpg",
+            "icon": "https://s3images.zee5.com/wp-content/uploads/sites/7/2020/08/Mulshi-Pattern-Movie-Poster-1.jpg",
+            "imageFiller":"height-center",
+            "action": "video:https://adilo.bigcommand.com/42ca2da4-fedb-4d46-91c0-1c8430a5aebd.mp4"
+        }
+    ]
+}

@@ -17,6 +17,12 @@
             "data": "https://infinitytechcmp.github.io/msx/data/base/videos.json",
             "background": "https://wallpapercave.com/wp/wp1848658.jpg"
         },
+        {
+            "icon": "movie",
+            "label": "Movies",
+            "data": "https://infinitytechcmp.github.io/msx/data/base/movies.json",
+            "background": "https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/q/l/f/small-spos14174-poster-collage-bollywood-vintage-classic-movie-original-imagkb9atakpyyaz.jpeg"
+        },
         {            
             "label": "Tv Shows",
             "icon": "movie",
@@ -37,7 +43,7 @@
                             {
                                 "type": "teaser",
                                 "layout": "3,0,3,3",   
-                                "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202406/gullak-season-4-062051163-16x9_0.jpg",
+                                "image": "https://origin-staticv2.sonyliv.com/videoasset_images/gullak4_3_landscape_thumb.jpg",
                                 "imageFiller":"height-left",
                                 "action": "content:https://infinitytechcmp.github.io/msx/data/base/gullak.json",
                                 "titleFooter":"Gullak",

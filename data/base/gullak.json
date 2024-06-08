@@ -4,14 +4,14 @@
     "template": {
         "type": "separate",
         "layout": "0,0,3,3",
-        "icon": "msx-white-soft:movie",
         "color": "msx-glass"
     },
     "items": [
         {
             "title": "Gullak Season 4",
             "playerLabel": "Gullak Season 4",
-            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202406/gullak-season-4-062051163-16x9_0.jpg",
+            "image": "https://origin-staticv2.sonyliv.com/videoasset_images/gullak4_3_landscape_thumb.jpg",
+            "icon": "https://origin-staticv2.sonyliv.com/videoasset_images/gullak4_3_landscape_thumb.jpg",
             "imageFiller":"height-left",
             "action": "video:https://adilo.bigcommand.com/305e9387-b266-478a-85fe-f4138e69577b.mp4"
         }
