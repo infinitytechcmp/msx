@@ -53,7 +53,7 @@
                             },
                             {
                                 "type": "teaser",
-                                "layout": "3,0,3,3",   
+                                "layout": "6,0,3,3",   
                                 "image": "https://upload.wikimedia.org/wikipedia/en/d/da/Mahabharat_2013_title.jpg",
                                 "imageFiller":"height-left",
                                 "action": "content:https://infinitytechcmp.github.io/msx/data/base/mahabharat.json",
