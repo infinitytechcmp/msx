@@ -26,7 +26,7 @@
                             {
                                 "type": "teaser",
                                 "layout": "0,0,3,3",   
-                                "image": "https://primepixelmedia.in/avmstudio/thumb/ramayan_thumb.jpg",
+                                "image": "https://origin-staticv2.sonyliv.com/videoasset_images/ramayan_landscape_thumb_1.jpg",
                                 "imageFiller":"height-left",
                                 "action": "content:https://infinitytechcmp.github.io/msx/data/base/ramayan.json",
                                 "titleFooter":"Shrimad Ramayan",
@@ -37,9 +37,9 @@
                             {
                                 "type": "teaser",
                                 "layout": "3,0,3,3",   
-                                "image": "https://primepixelmedia.in/avmstudio/thumb/gullak_thumb.jpg",
+                                "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202406/gullak-season-4-062051163-16x9_0.jpg",
                                 "imageFiller":"height-left",
-                                "action": "content:https://infinitytechcmp.github.io/msx/data/base/ramayan.json",
+                                "action": "content:https://infinitytechcmp.github.io/msx/data/base/gullak.json",
                                 "titleFooter":"Gullak",
                                 "tag":"2024",
                                 "alignment":"center",
