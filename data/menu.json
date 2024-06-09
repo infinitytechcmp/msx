@@ -65,7 +65,7 @@
                             {
                                 "type": "teaser",
                                 "layout": "9,0,3,3",   
-                                "image": "https://upload.wikimedia.org/wikipedia/en/d/da/Mahabharat_2013_title.jpg",
+                                "image": "https://images.augustman.com/wp-content/uploads/sites/6/2023/11/06125513/Untitled-design-2023-11-06T124912.407.png",
                                 "imageFiller":"height-left",
                                 "action": "content:https://infinitytechcmp.github.io/msx/data/base/scam.json",
                                 "titleFooter":"Scam Web Series",
