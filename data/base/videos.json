@@ -10,10 +10,43 @@
          {
             "type": "teaser",
             "layout": "0,0,2,2",   
-            "image": "https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg",
+            "image": "https://i.ibb.co/p4knk5y/images-4.png",
             "imageFiller":"height-center",
-            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://41029145660828838.otjb0606.xyz:80/live/te322945/CbtYHDcS5@/828838.m3u8",
-            "titleFooter":"Star Sports 3 Hindi",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://starshare.live:8080/live/SYHa6HRGqf/xefX63i3yV/98864.m3u8",
+            "titleFooter":"STAR SPORTS 1 (4K)",
+            "alignment":"center",
+            "tag":"Live",
+            "tagColor":"msx-red"
+        },
+        {
+            "type": "teaser",
+            "layout": "0,0,2,2",   
+            "image": "https://i.ibb.co/p4knk5y/images-4.png",
+            "imageFiller":"height-center",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://starshare.live:8080/live/SYHa6HRGqf/xefX63i3yV/98866.m3u8",
+            "titleFooter":"STAR SPORTS 1 HINDI (4K)",
+            "alignment":"center",
+            "tag":"Live",
+            "tagColor":"msx-red"
+        },
+        {
+            "type": "teaser",
+            "layout": "0,0,2,2",   
+            "image": "https://vignette.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20171105031607",
+            "imageFiller":"height-center",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://starshare.live:8080/live/SYHa6HRGqf/xefX63i3yV/211.m3u8",
+            "titleFooter":"STAR SPORTS HINDI HD",
+            "alignment":"center",
+            "tag":"Live",
+            "tagColor":"msx-red"
+        },
+        {
+            "type": "teaser",
+            "layout": "0,0,2,2",   
+            "image": "https://vignette.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest/scale-to-width-down/340?cb=20191214234112",
+            "imageFiller":"height-center",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://starshare.live:8080/live/SYHa6HRGqf/xefX63i3yV/1080.m3u8",
+            "titleFooter":"STAR SPORTS 3",
             "alignment":"center",
             "tag":"Live",
             "tagColor":"msx-red"
