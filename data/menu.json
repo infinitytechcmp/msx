@@ -61,6 +61,17 @@
                                 "tag":"2024",
                                 "alignment":"center",
                                 "tagColor":"msx-red"
+                            },
+                            {
+                                "type": "teaser",
+                                "layout": "9,0,3,3",   
+                                "image": "https://upload.wikimedia.org/wikipedia/en/d/da/Mahabharat_2013_title.jpg",
+                                "imageFiller":"height-left",
+                                "action": "content:https://infinitytechcmp.github.io/msx/data/base/scam.json",
+                                "titleFooter":"Scam Web Series",
+                                "tag":"2024",
+                                "alignment":"center",
+                                "tagColor":"msx-red"
                             }
                         ]
                     }]

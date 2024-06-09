@@ -1,0 +1,62 @@
+{
+    "type": "pages",
+    "headline": "Scam Web Series",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,3,3",
+        "color": "msx-glass"
+    },
+    "items": [
+        {
+            "title": "Scam 1992 - The Harshad Mehta Story S01 E01",
+            "playerLabel": "Scam 1992 - The Harshad Mehta Story S01 E01",
+            "action": "video:http://starshare.live:8080/series/SYHa6HRGqf/xefX63i3yV/9850.mkv"
+        },
+        {
+            "title": "Scam 1992 - The Harshad Mehta Story S01 E02",
+            "playerLabel": "Scam 1992 - The Harshad Mehta Story S01 E02",
+            "action": "video:http://starshare.live:8080/series/SYHa6HRGqf/xefX63i3yV/9851.mkv"
+        },
+        {
+            "title": "Scam 1992 - The Harshad Mehta Story S01 E03",
+            "playerLabel": "Scam 1992 - The Harshad Mehta Story S01 E03",
+            "action": "video:http://starshare.live:8080/series/SYHa6HRGqf/xefX63i3yV/9852.mkv"
+        },
+        {
+            "title": "Scam 1992 - The Harshad Mehta Story S01 E04",
+            "playerLabel": "Scam 1992 - The Harshad Mehta Story S01 E04",
+            "action": "video:http://starshare.live:8080/series/SYHa6HRGqf/xefX63i3yV/9853.mkv"
+        },
+        {
+            "title": "Scam 1992 - The Harshad Mehta Story S01 E05",
+            "playerLabel": "Scam 1992 - The Harshad Mehta Story S01 E05",
+            "action": "video:http://starshare.live:8080/series/SYHa6HRGqf/xefX63i3yV/9855.mkv"
+        },
+        {
+            "title": "Scam 1992 - The Harshad Mehta Story S01 E06",
+            "playerLabel": "Scam 1992 - The Harshad Mehta Story S01 E06",
+            "action": "video:http://starshare.live:8080/series/SYHa6HRGqf/xefX63i3yV/9856.mkv"
+        },
+        {
+            "title": "Scam 1992 - The Harshad Mehta Story S01 E07",
+            "playerLabel": "Scam 1992 - The Harshad Mehta Story S01 E07",
+            "action": "video:http://starshare.live:8080/series/SYHa6HRGqf/xefX63i3yV/9857.mkv"
+        },
+        {
+            "title": "Scam 1992 - The Harshad Mehta Story S01 E08",
+            "playerLabel": "Scam 1992 - The Harshad Mehta Story S01 E08",
+            "action": "video:http://starshare.live:8080/series/SYHa6HRGqf/xefX63i3yV/9858.mkv"
+        },
+        {
+            "title": "Scam 1992 - The Harshad Mehta Story S01 E09",
+            "playerLabel": "Scam 1992 - The Harshad Mehta Story S01 E09",
+            "action": "video:http://starshare.live:8080/series/SYHa6HRGqf/xefX63i3yV/9859.mkv"
+        },
+        {
+            "title": "Scam 1992 - The Harshad Mehta Story S01 E10",
+            "playerLabel": "Scam 1992 - The Harshad Mehta Story S01 E10",
+            "action": "video:http://starshare.live:8080/series/SYHa6HRGqf/xefX63i3yV/9860.mkv"
+        }
+    ]
+    
+}
