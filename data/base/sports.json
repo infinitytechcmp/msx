@@ -1,0 +1,35 @@
+{
+    "type": "pages",
+    "headline": "Sports",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,3,3",
+        "color": "msx-glass"
+    },
+    "items": [
+        {
+            "title": "ICC T20 WC India Vs Ireland Highlights",
+            "playerLabel": "ICC T20 WC India Vs Ireland Highlights",
+            "image": "https://images.ottplay.com/images/OMG:_Oh_My_God!_2012_movie_tmdb_backdrop_1.jpg",
+            "icon": "https://images.ottplay.com/images/OMG:_Oh_My_God!_2012_movie_tmdb_backdrop_1.jpg",
+            "imageFiller":"height-center",
+            "action": "video:https://adilo.bigcommand.com/59df7ab1-35db-4893-984f-7b1a3a188e5f.mp4"
+        },
+        {
+            "title": "ICC T20 WC India Vs Pakistan Highlights",
+            "playerLabel": "ICC T20 WC India Vs Pakistan Highlights",
+            "image": "https://images.ottplay.com/images/omg-2-744.jpeg",
+            "icon": "https://images.ottplay.com/images/omg-2-744.jpeg",
+            "imageFiller":"height-center",
+            "action": "video:https://adilo.bigcommand.com/3f5a13ee-553a-4370-be1e-31fea176e136.mp4"
+        },
+        {
+            "title": "ICC T20 WC India Vs Usa Highlights",
+            "playerLabel": "ICC T20 WC India Vs Usa Highlights",
+            "image": "https://s3images.zee5.com/wp-content/uploads/sites/7/2020/08/Mulshi-Pattern-Movie-Poster-1.jpg",
+            "icon": "https://s3images.zee5.com/wp-content/uploads/sites/7/2020/08/Mulshi-Pattern-Movie-Poster-1.jpg",
+            "imageFiller":"height-center",
+            "action": "video:https://adilo.bigcommand.com/25f75ae2-3a48-450f-b013-1a9887ee5ed7.mp4"
+        }
+    ]
+}

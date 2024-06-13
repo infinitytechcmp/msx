@@ -79,6 +79,12 @@
         },
         {
             "icon": "smart-display",
+            "label": "Sports",
+            "data": "https://infinitytechcmp.github.io/msx/data/base/sports.json",
+            "background": "https://www.cdlu.ac.in/application/games/wp-content/uploads/2023/10/cricket-background-images_402cfb252.jpg"
+        },
+        {
+            "icon": "smart-display",
             "label": "YouTube",
             "data": "https://infinitytechcmp.github.io/msx/data/base/youtube.json",
             "background": "https://wallpapers.com/images/hd/youtube-background-ezou9wzqzl3iscer.jpg"
