@@ -8,8 +8,7 @@
             "background": "https://primepixelmedia.in/avmstudio.png"
         },
         {
-            "type": "separator",
-            "label": "UseFul Links"
+            "type": "separator"
         },
         {
             "icon": "movie",
@@ -20,13 +19,21 @@
         {
             "type": "separator"
         },
-        {
-            "type": "button",
-            "icon": "apps",
-            "label": "Live Tv India",
-            "action": "content:http://msx.benzac.de/services/m3u.php?mode=extended&url=https://infinitytechcmp.github.io/msx/m3u/aruntv.m3u",
-            "background": "https://wallpapercave.com/wp/wp1848658.jpg"
-         },
+        {            
+            "label": "TV List",
+            "data": {               
+                "pages": [{  
+                        "items": [{
+                                "type": "button",
+                                "icon": "list",
+                                "layout": "0,0,3,3",                                            
+                                "label": "Live Tv India",
+                                "action": "content:http://msx.benzac.de/services/m3u.php?mode=extended&url=https://infinitytechcmp.github.io/msx/m3u/aruntv.m3u",
+                                "background": "https://wallpapercave.com/wp/wp1848658.jpg"
+                            }]
+                    }]
+            }
+        },
         {
             "type": "separator"
         },
