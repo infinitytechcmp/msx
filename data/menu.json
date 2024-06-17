@@ -18,18 +18,17 @@
             "background": "https://wallpapercave.com/wp/wp1848658.jpg"
         },
         {
-            "type": "separator",
-            "label": "UseFul Links"
+            "type": "separator"
         },
         {
+            "type": "button",
             "icon": "apps",
             "label": "Live Tv India",
             "action": "content:http://msx.benzac.de/services/m3u.php?mode=extended&url=https://infinitytechcmp.github.io/msx/m3u/aruntv.m3u",
             "background": "https://wallpapercave.com/wp/wp1848658.jpg"
-        },
+         },
         {
-            "type": "separator",
-            "label": "UseFul Links"
+            "type": "separator"
         },
         {
             "icon": "movie",
