@@ -5,12 +5,11 @@
             "items": [
                 {
                     "type": "teaser",
-                    "layout": "0,0,3,3",                   
-                    "badge": "Badge",                  
+                    "layout": "0,0,2,2",                   
+                    "badge": "2024",                  
                     "tag": "Tag",
                     "tagColor": "msx-red",
-                    "titleHeader": "Star Sports 1 HD",
-                    "title": "Star Sports",                
+                    "titleHeader": "Star Sports 1 HD",         
                     "image": "http://b1g.fun/logos2/star_sports1hd.jpg",
                     "imageFiller": "height-left"
                 }
