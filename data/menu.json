@@ -12,7 +12,7 @@
         {
             "icon": "live-tv",
             "label": "Live Tv",
-            "data": "https://infinitytechcmp.github.io/msx/data/base/videos.json",
+            "data": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live.json",
             "background": "https://infinitytechcmp.github.io/msx/data/thumbs/tv-images/wallpaper2.jpg"
         },
         {
