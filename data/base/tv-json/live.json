@@ -10,7 +10,7 @@
                     "badge": "2024",                  
                     "tag": "Tag",
                     "tagColor": "msx-red",
-                    "titleHeader": "Star Sports 1 HD",         
+                    "badgeColor": "msx-yellow",         
                     "image": "https://infinitytechcmp.github.io/msx/data/thumbs/channel/star-sports-hin.webp",
                     "imageFiller": "height-left"
                 }
