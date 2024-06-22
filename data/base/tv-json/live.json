@@ -5,7 +5,8 @@
             "items": [
                 {
                     "type": "teaser",
-                    "layout": "0,0,2,2",                   
+                    "layout": "0,0,2,2",            
+                    "color":"msx-white",       
                     "badge": "2024",                  
                     "tag": "Tag",
                     "tagColor": "msx-red",
