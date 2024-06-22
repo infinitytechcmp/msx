@@ -1,5 +1,7 @@
 {
     "headline": "Avm Studio",
+    "style": "flat-separator",
+    "transparent": 2,
     "menu": [
         {
             "icon": "info",
