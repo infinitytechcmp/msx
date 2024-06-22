@@ -9,10 +9,10 @@
     "items": [
         {
             "type": "separate",
-            "layout": "0,0,3,2",                 
+            "layout": "0,0,2,2",                 
             "image": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",  
-            "background": "https://infinitytechcmp.github.io/msx/data/thumbs/tv-images/white.jpg",
-            "imageFiller":"center",
+            "background": "https://infinitytechcmp.github.io/msx/data/thumbs/tv-images/black.jpg",
+            "imageFiller":"default",
             "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://live12p.hotstar.com/hls/live/2027118/inallow-icct20wc-2024/hin/1540029836/15mindvrm01602fc50ae0d74b0295a31e8ad2ddc5ed09june2024/master_apm_720_3.m3u8",
             "alignment":"center",
             "tag":"Live",
