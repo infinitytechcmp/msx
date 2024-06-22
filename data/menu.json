@@ -5,7 +5,7 @@
             "icon": "info",
             "label": "Start Guide",
             "data": "https://infinitytechcmp.github.io/msx/data/welcome.json",
-            "background": "https://primepixelmedia.in/avmstudio.png"
+            "background": "thumbs/tv-images/wallpaper2.jpg"
         },
         {
             "type": "separator"
