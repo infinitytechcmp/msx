@@ -2,9 +2,7 @@
     "type": "pages",
     "headline": "Videos",
     "template": {
-        "type": "separate",
-        "layout": "0,0,3,2",
-        "color": "msx-glass"
+        "type": "separate"
     },
     "items": [
         {
