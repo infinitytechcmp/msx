@@ -5,111 +5,33 @@
     "menu": [
         {
             "icon": "info",
-            "label": "Start Guide",
+            "label": "Intro",
             "data": "https://infinitytechcmp.github.io/msx/data/welcome.json",
             "background": "https://infinitytechcmp.github.io/msx/data/thumbs/tv-images/wallpaper2.jpg"
         },
         {
-            "type": "separator"
-        },
-        {
-            "icon": "movie",
+            "icon": "live-tv",
             "label": "Live Tv",
             "data": "https://infinitytechcmp.github.io/msx/data/base/videos.json",
-            "background": "https://wallpapercave.com/wp/wp1848658.jpg"
-        },
-        {
-            "type": "separator"
-        },
-        {            
-            "label": "TV List",
-            "data": {               
-                "pages": [{  
-                        "items": [{
-                                "type": "button",
-                                "icon": "list",
-                                "layout": "0,0,3,3",                                            
-                                "label": "Live Tv India",
-                                "action": "content:http://msx.benzac.de/services/m3u.php?mode=extended&url=https://infinitytechcmp.github.io/msx/m3u/aruntv.m3u",
-                                "background": "https://wallpapercave.com/wp/wp1848658.jpg"
-                            }]
-                    }]
-            }
-        },
-        {
-            "type": "separator"
+            "background": "https://infinitytechcmp.github.io/msx/data/thumbs/tv-images/wallpaper2.jpg"
         },
         {
             "icon": "movie",
             "label": "Movies",
-            "data": "https://infinitytechcmp.github.io/msx/data/base/movies.json",
-            "background": "https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/q/l/f/small-spos14174-poster-collage-bollywood-vintage-classic-movie-original-imagkb9atakpyyaz.jpeg"
-        },
-        {            
-            "label": "Tv Shows",
-            "icon": "movie",
-            "data": {               
-                "pages": [{  
-                        "items": [
-                            {
-                                "type": "teaser",
-                                "layout": "0,0,3,3",   
-                                "image": "https://origin-staticv2.sonyliv.com/videoasset_images/ramayan_landscape_thumb_1.jpg",
-                                "imageFiller":"height-left",
-                                "action": "content:https://infinitytechcmp.github.io/msx/data/base/ramayan.json",
-                                "titleFooter":"Shrimad Ramayan",
-                                "tag":"2024",
-                                "alignment":"center",
-                                "tagColor":"msx-red"
-                            },
-                            {
-                                "type": "teaser",
-                                "layout": "3,0,3,3",   
-                                "image": "https://origin-staticv2.sonyliv.com/videoasset_images/gullak4_3_landscape_thumb.jpg",
-                                "imageFiller":"height-left",
-                                "action": "content:https://infinitytechcmp.github.io/msx/data/base/gullak.json",
-                                "titleFooter":"Gullak",
-                                "tag":"2024",
-                                "alignment":"center",
-                                "tagColor":"msx-red"
-                            },
-                            {
-                                "type": "teaser",
-                                "layout": "6,0,3,3",   
-                                "image": "https://upload.wikimedia.org/wikipedia/en/d/da/Mahabharat_2013_title.jpg",
-                                "imageFiller":"height-left",
-                                "action": "content:https://infinitytechcmp.github.io/msx/data/base/mahabharat.json",
-                                "titleFooter":"Mahabharat",
-                                "tag":"2024",
-                                "alignment":"center",
-                                "tagColor":"msx-red"
-                            },
-                            {
-                                "type": "teaser",
-                                "layout": "9,0,3,3",   
-                                "image": "https://images.augustman.com/wp-content/uploads/sites/6/2023/11/06125513/Untitled-design-2023-11-06T124912.407.png",
-                                "imageFiller":"height-left",
-                                "action": "content:https://infinitytechcmp.github.io/msx/data/base/scam.json",
-                                "titleFooter":"Scam Web Series",
-                                "tag":"2024",
-                                "alignment":"center",
-                                "tagColor":"msx-red"
-                            }
-                        ]
-                    }]
-            }
+            "data": "https://infinitytechcmp.github.io/msx/data/base/videos.json",
+            "background": "https://infinitytechcmp.github.io/msx/data/thumbs/tv-images/wallpaper2.jpg"
         },
         {
-            "icon": "smart-display",
+            "icon": "sports-cricket",
             "label": "Sports",
-            "data": "https://infinitytechcmp.github.io/msx/data/base/sports.json",
-            "background": "https://www.cdlu.ac.in/application/games/wp-content/uploads/2023/10/cricket-background-images_402cfb252.jpg"
+            "data": "https://infinitytechcmp.github.io/msx/data/base/videos.json",
+            "background": "https://infinitytechcmp.github.io/msx/data/thumbs/tv-images/wallpaper2.jpg"
         },
         {
-            "icon": "smart-display",
-            "label": "YouTube",
-            "data": "https://infinitytechcmp.github.io/msx/data/base/youtube.json",
-            "background": "https://wallpapers.com/images/hd/youtube-background-ezou9wzqzl3iscer.jpg"
+            "icon": "mobile-friendly",
+            "label": "OTT",
+            "data": "https://infinitytechcmp.github.io/msx/data/base/videos.json",
+            "background": "https://infinitytechcmp.github.io/msx/data/thumbs/tv-images/wallpaper2.jpg"
         }
     ]
 }

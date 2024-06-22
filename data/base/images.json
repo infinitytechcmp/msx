@@ -24,6 +24,21 @@
         {
             "titleFooter": "Image 4",
             "image": "http://msx.benzac.de/img/test.jpg"
+        },
+        {            
+            "label": "TV List",
+            "data": {               
+                "pages": [{  
+                        "items": [{
+                                "type": "button",
+                                "icon": "list",
+                                "layout": "0,0,3,3",                                            
+                                "label": "Live Tv India",
+                                "action": "content:http://msx.benzac.de/services/m3u.php?mode=extended&url=https://infinitytechcmp.github.io/msx/m3u/aruntv.m3u",
+                                "background": "https://wallpapercave.com/wp/wp1848658.jpg"
+                            }]
+                    }]
+            }
         }
     ]
 }
