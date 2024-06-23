@@ -18,7 +18,7 @@
         {
             "icon": "movie",
             "label": "Movies",
-            "data": "https://infinitytechcmp.github.io/msx/data/base/videos.json",
+            "data": "https://infinitytechcmp.github.io/msx/data/base/tv-json/movies.json",
             "background": "https://infinitytechcmp.github.io/msx/data/thumbs/tv-images/wallpaper2.jpg"
         },
         {
