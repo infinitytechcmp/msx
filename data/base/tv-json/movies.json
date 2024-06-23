@@ -5,31 +5,31 @@
             "items": [
                 {
                     "type": "teaser",
-                    "layout": "0,0,2,4",            
+                    "layout": "0,0,2,3",            
                     "color":"msx-white",       
                     "badge": "2021",     
                     "badgeColor": "msx-yellow",         
-                    "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A97UCQufidrmu0h5uxxAym84iw5.jpg",
+                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/posters/antim.jpg",
                     "imageFiller":"height-center",
                     "action": "video:http://panelguys.top:8080/movie/phi@live.ca/phi@3574/205390.mp4"
                 },
                 {
                     "type": "teaser",
-                    "layout": "0,0,2,4",            
+                    "layout": "2,0,2,3",            
                     "color":"msx-white",       
                     "badge": "2021",     
                     "badgeColor": "msx-yellow",         
-                    "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHPFZLf2jPZSgFiqzPsSWqPmUMd.jpg",
+                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/posters/atrangi-re.jpg",
                     "imageFiller":"height-center",
                     "action": "video:http://panelguys.top:8080/movie/phi@live.ca/phi@3574/205392.mp4"
                 },
                 {
                     "type": "teaser",
-                    "layout": "0,0,2,4",            
+                    "layout": "4,0,2,3",            
                     "color":"msx-white",       
                     "badge": "2022",     
                     "badgeColor": "msx-yellow",         
-                    "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fw0oMHiMt9qOuKEJEmzFiCNAnXc.jpg",
+                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/posters/Bhool-Bhoolaiya-2.jpg",
                     "imageFiller":"height-center",
                     "action": "video:http://panelguys.top:8080/movie/phi@live.ca/phi@3574/205399.mkv"
                 }
