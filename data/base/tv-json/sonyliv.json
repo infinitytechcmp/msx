@@ -1,0 +1,19 @@
+{
+    "type": "list",
+    "headline": "Sony Liv Shows",
+    "template": {
+       "type": "separate",
+       "layout": "0,0,3,4"
+    },
+    "items": [
+       {
+          "type": "teaser",
+          "badge": "2024",
+          "tag": "New",
+          "tagColor": "msx-red",
+          "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/shows/shrimad_ramayan.jpg",
+          "imageFiller": "height-center",
+          "action": "menu:https://infinitytechcmp.github.io/msx/data/base/tv-json/sonyliv.json"
+       }
+    ]
+ }
