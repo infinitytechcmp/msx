@@ -1,9 +1,7 @@
 {
     "type": "pages",
     "headline": "Live TV",
-    "pages": [
-        {    
-            "items": [
+    "items": [
                 {
                     "badge": "2024",                  
                     "tag": "Live",
@@ -2084,6 +2082,4 @@
                     "imageFiller": "height-center"
                 }
             ]
-        }
-    ]
 }
