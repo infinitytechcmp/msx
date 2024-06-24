@@ -3,50 +3,48 @@
     "headline": "Template",
     "template": {
        "type": "separate",
-       "layout": "0,0,3,4"
+       "layout": "0,0,3,3"
     },
     "items": [
        {
-          "title": "Sony Liv",
           "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv.jpg",
           "imageFiller": "height-center",
           "action": "menu:https://infinitytechcmp.github.io/msx/data/base/tv-json/live.json"
        },
        {
-          "title": "Hotstar",
           "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/hotstar.png",
           "imageFiller": "height-center",
           "action": "menu:https://infinitytechcmp.github.io/msx/data/base/tv-json/live.json"
        },
        {
-          "title": "Prime Video",
           "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/prime.webp",
           "imageFiller": "height-center",
           "action": "menu:https://infinitytechcmp.github.io/msx/data/base/tv-json/live.json"
        },
        {
-          "title": "NetFlix",
           "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/netflix.jpg",
           "imageFiller": "height-center",
           "action": "menu:https://infinitytechcmp.github.io/msx/data/base/tv-json/live.json"
        },
        {
-          "title": "Mx Player",
-          "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/mx.jpg",
+          "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/zee5.jpg",
           "imageFiller": "height-center",
           "action": "menu:https://infinitytechcmp.github.io/msx/data/base/tv-json/live.json"
        },
        {
-          "title": "Ullu",
           "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/ullu.jpg",
           "imageFiller": "height-center",
           "action": "menu:https://infinitytechcmp.github.io/msx/data/base/tv-json/live.json"
        },
        {
-            "title": "Alt Balaji",
             "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/altbalaji.jpg",
             "imageFiller": "height-center",
             "action": "menu:https://infinitytechcmp.github.io/msx/data/base/tv-json/live.json"
-        }
+       },
+       {
+          "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/JioCinema.webp",
+          "imageFiller": "height-center",
+          "action": "menu:https://infinitytechcmp.github.io/msx/data/base/tv-json/live.json"
+       }
     ]
  }
