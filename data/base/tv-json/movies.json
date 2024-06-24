@@ -3,8 +3,7 @@
     "headline": "Movies",
     "template": {
         "type": "separate",
-        "layout": "0,0,2,3",
-        "titleFooter": "Title Footer"
+        "layout": "0,0,2,3"
     },
     "items": [
         {
