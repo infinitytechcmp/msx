@@ -30,7 +30,7 @@
         {
             "icon": "mobile-friendly",
             "label": "OTT",
-            "data": "https://infinitytechcmp.github.io/msx/data/base/videos.json",
+            "data": "https://infinitytechcmp.github.io/msx/data/base/ott.json",
             "background": "https://infinitytechcmp.github.io/msx/data/thumbs/tv-images/wallpaper2.jpg"
         }
     ]
