@@ -17,7 +17,7 @@
           "action": "menu:https://infinitytechcmp.github.io/msx/data/base/tv-json/live.json"
        },
        {
-          "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/prime.webp",
+          "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/prime.jpg",
           "imageFiller": "height-center",
           "action": "menu:https://infinitytechcmp.github.io/msx/data/base/tv-json/live.json"
        },
@@ -42,7 +42,7 @@
             "action": "menu:https://infinitytechcmp.github.io/msx/data/base/tv-json/live.json"
        },
        {
-          "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/JioCinema.webp",
+          "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/jiocinema.jpg",
           "imageFiller": "height-center",
           "action": "menu:https://infinitytechcmp.github.io/msx/data/base/tv-json/live.json"
        }
