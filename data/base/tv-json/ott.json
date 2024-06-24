@@ -3,7 +3,7 @@
     "headline": "Template",
     "template": {
        "type": "separate",
-       "layout": "0,0,3,3"
+       "layout": "0,0,4,4"
     },
     "items": [
        {
@@ -37,9 +37,9 @@
           "action": "menu:https://infinitytechcmp.github.io/msx/data/base/tv-json/live.json"
        },
        {
-            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/altbalaji.jpg",
-            "imageFiller": "height-center",
-            "action": "menu:https://infinitytechcmp.github.io/msx/data/base/tv-json/live.json"
+          "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/altbalaji.jpg",
+          "imageFiller": "height-center",
+          "action": "menu:https://infinitytechcmp.github.io/msx/data/base/tv-json/live.json"
        },
        {
           "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/jiocinema.jpg",
