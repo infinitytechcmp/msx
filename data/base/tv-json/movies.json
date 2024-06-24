@@ -1,118 +1,110 @@
 {
-    "type": "pages",
+    "type": "list",
     "headline": "Movies",
-    "pages": [{    
-            "items": [
-                {
-                    "type": "teaser",
-                    "layout": "0,0,2,3",            
-                    "color":"msx-white",       
-                    "badge": "2021",     
-                    "badgeColor": "msx-yellow",         
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/posters/antim.jpg",
-                    "imageFiller":"height-center",
-                    "action": "video:http://panelguys.top:8080/movie/phi@live.ca/phi@3574/205390.mp4"
-                },
-                {
-                    "type": "teaser",
-                    "layout": "2,0,2,3",            
-                    "color":"msx-white",       
-                    "badge": "2021",     
-                    "badgeColor": "msx-yellow",         
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/posters/atrangi-re.jpg",
-                    "imageFiller":"height-center",
-                    "action": "video:http://panelguys.top:8080/movie/phi@live.ca/phi@3574/205392.mp4"
-                },
-                {
-                    "type": "teaser",
-                    "layout": "4,0,2,3",            
-                    "color":"msx-white",       
-                    "badge": "2022",     
-                    "badgeColor": "msx-yellow",         
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/posters/Bhool-Bhoolaiya-2.jpg",
-                    "imageFiller":"height-center",
-                    "action": "video:http://panelguys.top:8080/movie/phi@live.ca/phi@3574/205399.mkv"
-                },
-                {
-                    "type": "teaser",
-                    "layout": "6,0,2,3",            
-                    "color":"msx-white",       
-                    "badge": "2021",     
-                    "badgeColor": "msx-yellow",
-                    "action": "video:http://panelguys.top:8080/movie/phi@live.ca/phi@3574/205384.mkv",
-                    "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTOMTFUbMxSApPRTuECMrl5RyQ2.jpg",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "type": "teaser",
-                    "layout": "8,0,2,3",            
-                    "color":"msx-white",       
-                    "badge": "2022",     
-                    "badgeColor": "msx-yellow",
-                    "action": "video:http://panelguys.top:8080/movie/phi@live.ca/phi@3574/205412.mkv",
-                    "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHPEKlzg7CaJFCjWlMdZKpCRIDl.jpg",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "type": "teaser",
-                    "layout": "10,0,2,3",            
-                    "color":"msx-white",       
-                    "badge": "2022",     
-                    "badgeColor": "msx-yellow",
-                    "action": "video:http://panelguys.top:8080/movie/phi@live.ca/phi@3574/205419.mkv",
-                    "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur2D5MXrwBBymQ7DjG0cOFen2yh.jpg",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "type": "teaser",
-                    "layout": "12,0,2,3",            
-                    "color":"msx-white",       
-                    "badge": "2022",     
-                    "badgeColor": "msx-yellow",
-                    "action": "video:http://panelguys.top:8080/movie/phi@live.ca/phi@3574/205422.mkv",
-                    "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6t4nzjbmlGDAYnNvUeo6zxMySC.jpg",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "type": "teaser",
-                    "layout": "14,0,2,3",            
-                    "color":"msx-white",       
-                    "badge": "2022",     
-                    "badgeColor": "msx-yellow",
-                    "action": "video:http://panelguys.top:8080/movie/phi@live.ca/phi@3574/205425.mkv",
-                    "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJOfJuyQVZPwNQ8g21Qv0lojQhC.jpg",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "type": "teaser",
-                    "layout": "16,0,2,3",            
-                    "color":"msx-white",       
-                    "badge": "2021",     
-                    "badgeColor": "msx-yellow",
-                    "action": "video:http://panelguys.top:8080/movie/phi@live.ca/phi@3574/205430.mkv",
-                    "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKDnGklCDRK8hrFGH4pLr7ZDA33.jpg",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "type": "teaser",
-                    "layout": "18,0,2,3",            
-                    "color":"msx-white",       
-                    "badge": "2022",     
-                    "badgeColor": "msx-yellow",
-                    "action": "video:http://panelguys.top:8080/movie/phi@live.ca/phi@3574/205433.mkv",
-                    "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0XUBNQWlOvrh0Gd97ARGpIkL0.jpg",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "type": "teaser",
-                    "layout": "20,0,2,3",            
-                    "color":"msx-white",       
-                    "badge": "2021",     
-                    "badgeColor": "msx-yellow",
-                    "action": "video:http://panelguys.top:8080/movie/phi@live.ca/phi@3574/205439.mkv",
-                    "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCymRm6FG62zrKnXiHHJvDgkYoA.jpg",
-                    "imageFiller": "height-center"
-                }
-            ]
-        }]
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,3",
+        "titleFooter": "Title Footer"
+    },
+    "items": [
+        {
+            "type": "teaser",            
+            "color":"msx-white",       
+            "badge": "2021",     
+            "badgeColor": "msx-yellow",         
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/posters/antim.jpg",
+            "imageFiller":"height-center",
+            "action": "video:http://panelguys.top:8080/movie/phi@live.ca/phi@3574/205390.mp4"
+        },
+        {
+            "type": "teaser",            
+            "color":"msx-white",       
+            "badge": "2021",     
+            "badgeColor": "msx-yellow",         
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/posters/atrangi-re.jpg",
+            "imageFiller":"height-center",
+            "action": "video:http://panelguys.top:8080/movie/phi@live.ca/phi@3574/205392.mp4"
+        },
+        {
+            "type": "teaser",         
+            "color":"msx-white",       
+            "badge": "2022",     
+            "badgeColor": "msx-yellow",         
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/posters/Bhool-Bhoolaiya-2.jpg",
+            "imageFiller":"height-center",
+            "action": "video:http://panelguys.top:8080/movie/phi@live.ca/phi@3574/205399.mkv"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "badge": "2021",
+            "badgeColor": "msx-yellow",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/posters/itXjzkcJcG6lgWAhOzUrKiW9HTS.jpg",
+            "imageFiller": "height-center",
+            "action": "video:http://panelguys.top:8080/movie/phi@live.ca/phi@3574/205384.mkv"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "badge": "2022",
+            "badgeColor": "msx-yellow",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/posters/wHPEKlzg7CaJFCjWlMdZKpCRIDl.jpg",
+            "imageFiller": "height-center",
+            "action": "video:http://panelguys.top:8080/movie/phi@live.ca/phi@3574/205412.mkv"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "badge": "2019",
+            "badgeColor": "msx-yellow",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/posters/ur2D5MXrwBBymQ7DjG0cOFen2yh.jpg",
+            "imageFiller": "height-center",
+            "action": "video:http://panelguys.top:8080/movie/phi@live.ca/phi@3574/205419.mkv"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "badge": "2022",
+            "badgeColor": "msx-yellow",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/posters/w6t4nzjbmlGDAYnNvUeo6zxMySC.jpg",
+            "imageFiller": "height-center",
+            "action": "video:http://panelguys.top:8080/movie/phi@live.ca/phi@3574/205422.mkv"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "badge": "2022",
+            "badgeColor": "msx-yellow",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/posters/sJOfJuyQVZPwNQ8g21Qv0lojQhC.jpg",
+            "imageFiller": "height-center",
+            "action": "video:http://panelguys.top:8080/movie/phi@live.ca/phi@3574/205425.mkv"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "badge": "2021",
+            "badgeColor": "msx-yellow",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/posters/r1yAzVQNbCbPTbB3GZFour9Qr0t.jpg",
+            "imageFiller": "height-center",
+            "action": "video:http://panelguys.top:8080/movie/phi@live.ca/phi@3574/205430.mkv"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "badge": "2022",
+            "badgeColor": "msx-yellow",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/posters/bsN3BlxpQ77XZH22GAXPFfbTflO.jpg",
+            "imageFiller": "height-center",
+            "action": "video:http://panelguys.top:8080/movie/phi@live.ca/phi@3574/205433.mkv"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "badge": "2024",
+            "badgeColor": "msx-yellow",
+            "image": "images/3ltItV4AD2Vkg0KMqfgSuRNwHzl.jpg",
+            "imageFiller": "height-center",
+            "action": "video:http://b1g.ooo:80/movie/Kelly123/Kelly123/771551.mkv"
+        }
+    ]
 }
