@@ -8,7 +8,7 @@
     "items": [
        {
           "title": "Sony Liv",
-          "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv,jpg",
+          "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv.jpg",
           "imageFiller": "height-center",
           "action": "menu:https://infinitytechcmp.github.io/msx/data/base/tv-json/live.json"
        },
