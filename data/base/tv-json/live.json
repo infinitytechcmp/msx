@@ -1,6 +1,10 @@
 {
-    "type": "pages",
+    "type": "list",
     "headline": "Live TV",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,3"
+    },
     "items": [
                 {
                     "badge": "2024",                  
