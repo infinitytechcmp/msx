@@ -11,737 +11,315 @@
                     "tag": "Live",
                     "tagColor": "msx-red",
                     "badgeColor": "msx-yellow",
-                    "title": "IN001:&pictures",
+                    "title": "&pictures",
                     "playerLabel": "IN001:&pictures",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1964.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/and-pictures-hd-in.png",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
                     "tag": "Live",
                     "tagColor": "msx-red",
                     "badgeColor": "msx-yellow",
-                    "title": "IN002:& PRIVE",
+                    "title": "& PRIVE",
                     "playerLabel": "IN002:& PRIVE",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1963.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/and-prive-hd-in.png",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
                     "tag": "Live",
                     "tagColor": "msx-red",
                     "badgeColor": "msx-yellow",
-                    "title": "IN003:&TV",
+                    "title": "&TV",
                     "playerLabel": "IN003:&TV",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1962.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/and-tv-hd-in.png",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
                     "tag": "Live",
                     "tagColor": "msx-red",
                     "badgeColor": "msx-yellow",
-                    "title": "IN007:9X JALWA",
+                    "title": "9X JALWA",
                     "playerLabel": "IN007:9X JALWA",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1958.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/9x-jalwa-in.png",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
                     "tag": "Live",
                     "tagColor": "msx-red",
                     "badgeColor": "msx-yellow",
-                    "title": "IN008:9X JHAKAAS",
+                    "title": "9X JHAKAAS",
                     "playerLabel": "IN008:9X JHAKAAS",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1957.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/9x-jhakaas-in.png",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
                     "tag": "Live",
                     "tagColor": "msx-red",
                     "badgeColor": "msx-yellow",
-                    "title": "IN009:&FLIX",
+                    "title": "&FLIX",
                     "playerLabel": "IN009:&FLIX",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1956.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/and-flix-in.png",
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
                     "tag": "Live",
                     "tagColor": "msx-red",
                     "badgeColor": "msx-yellow",
-                    "title": "IN010:9X TASHAN",
+                    "title": "9X TASHAN",
                     "playerLabel": "IN010:9X TASHAN",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1955.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/9x-tashan-in.png",
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
                     "tag": "Live",
                     "tagColor": "msx-red",
                     "badgeColor": "msx-yellow",
-                    "title": "IN011:9XM",
+                    "title": "9XM",
                     "playerLabel": "IN011:9XM",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1954.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/9xm-in.png",
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
                     "tag": "Live",
                     "tagColor": "msx-red",
                     "badgeColor": "msx-yellow",
-                    "title": "IN012:AAJ TAK",
+                    "title": "AAJ TAK",
                     "playerLabel": "IN012:AAJ TAK",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1953.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/aaj-tak-in.png",
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
                     "tag": "Live",
                     "tagColor": "msx-red",
                     "badgeColor": "msx-yellow",
-                    "title": "IN013:AASTHA",
+                    "title": "AASTHA",
                     "playerLabel": "IN013:AASTHA",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1952.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/aastha-in.png",
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
                     "tag": "Live",
                     "tagColor": "msx-red",
                     "badgeColor": "msx-yellow",
-                    "title": "IN014:ZOOM TV",
-                    "playerLabel": "IN014:ZOOM TV",
+                    "title": "ZOOM TV",
+                    "playerLabel": "ZOOM TV",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1951.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/zoom-in.png",
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
                     "tag": "Live",
                     "tagColor": "msx-red",
                     "badgeColor": "msx-yellow",
-                    "title": "IN015:AASTHA UK",
-                    "playerLabel": "IN015:AASTHA UK",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1950.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN016:ABP NEWS",
-                    "playerLabel": "IN016:ABP NEWS",
+                    "title": "ABP NEWS",
+                    "playerLabel": "ABP NEWS",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1949.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/abp-news-in.png",
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
                     "tag": "Live",
                     "tagColor": "msx-red",
                     "badgeColor": "msx-yellow",
-                    "title": "IN017:AKAAL CHANNEL UK",
-                    "playerLabel": "IN017:AKAAL CHANNEL UK",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1948.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN018:ASIANET",
-                    "playerLabel": "IN018:ASIANET",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1947.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN019:ASIANET MOVIES",
-                    "playerLabel": "IN019:ASIANET MOVIES",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1946.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN020:ASIANET NEWS",
-                    "playerLabel": "IN020:ASIANET NEWS",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1945.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN021:B4U MUSIC",
+                    "title": "B4U MUSIC",
                     "playerLabel": "IN021:B4U MUSIC",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1944.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/b4u-music-in.png",
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
                     "tag": "Live",
                     "tagColor": "msx-red",
                     "badgeColor": "msx-yellow",
-                    "title": "IN022:B4U KADAK",
+                    "title": "B4U KADAK",
                     "playerLabel": "IN022:B4U KADAK",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1943.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/b4u-kadak-in.png",
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
                     "tag": "Live",
                     "tagColor": "msx-red",
                     "badgeColor": "msx-yellow",
-                    "title": "IN023:B4U MOVIES",
+                    "title": "B4U MOVIES",
                     "playerLabel": "IN023:B4U MOVIES",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1942.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/b4u-movies-in.png",
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
                     "tag": "Live",
                     "tagColor": "msx-red",
                     "badgeColor": "msx-yellow",
-                    "title": "IN024:B4U PLUS",
-                    "playerLabel": "IN024:B4U PLUS",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1941.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN025:BALLE BALLE",
-                    "playerLabel": "IN025:BALLE BALLE",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1940.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN026:BOLLYWOOD NOW",
-                    "playerLabel": "IN026:BOLLYWOOD NOW",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1939.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN028:BIG MAGIC",
+                    "title": "BIG MAGIC",
                     "playerLabel": "IN028:BIG MAGIC",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1937.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/big-magic-in.png",
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
                     "tag": "Live",
                     "tagColor": "msx-red",
                     "badgeColor": "msx-yellow",
-                    "title": "IN029:BOLLYWOOD CLASSIC",
-                    "playerLabel": "IN029:BOLLYWOOD CLASSIC",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1936.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN030:BOOGLE BOLLYWOOD",
-                    "playerLabel": "IN030:BOOGLE BOLLYWOOD",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1935.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN031:CHARDIKLA TIME TV",
-                    "playerLabel": "IN031:CHARDIKLA TIME TV",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1934.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN032:CNBC AWAAZ",
-                    "playerLabel": "IN032:CNBC AWAAZ",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1933.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN034:COLORS",
+                    "title": "COLORS",
                     "playerLabel": "IN034:COLORS",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1931.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/colors-in.png",
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
                     "tag": "Live",
                     "tagColor": "msx-red",
                     "badgeColor": "msx-yellow",
-                    "title": "IN035:COLORS BANGLA",
-                    "playerLabel": "IN035:COLORS BANGLA",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1930.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN036:COLORS CINEPLEX",
+                    "title": "COLORS CINEPLEX",
                     "playerLabel": "IN036:COLORS CINEPLEX",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1929.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/colors-cineplex-in.png",
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
                     "tag": "Live",
                     "tagColor": "msx-red",
                     "badgeColor": "msx-yellow",
-                    "title": "IN037:COLORS EUROPE",
-                    "playerLabel": "IN037:COLORS EUROPE",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1928.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN038:COLORS GUJARATI",
-                    "playerLabel": "IN038:COLORS GUJARATI",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1927.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN039:COLORS KANNADA",
-                    "playerLabel": "IN039:COLORS KANNADA",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1926.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN040:COLORS MARATHI",
-                    "playerLabel": "IN040:COLORS MARATHI",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1925.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN041:COLORS RISHTEY",
+                    "title": "COLORS RISHTEY",
                     "playerLabel": "IN041:COLORS RISHTEY",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1924.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/colors-rishtey-in.png",
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
                     "tag": "Live",
                     "tagColor": "msx-red",
                     "badgeColor": "msx-yellow",
-                    "title": "IN042:CARTOON NETWORK",
+                    "title": "CARTOON NETWORK",
                     "playerLabel": "IN042:CARTOON NETWORK",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1923.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/cartoon-network-in.png",
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
                     "tag": "Live",
                     "tagColor": "msx-red",
                     "badgeColor": "msx-yellow",
-                    "title": "IN043:DESI CHANNEL",
-                    "playerLabel": "IN043:DESI CHANNEL",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1922.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN044:DD MALAYALAM",
-                    "playerLabel": "IN044:DD MALAYALAM",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1921.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN046:DD GIRNAR",
-                    "playerLabel": "IN046:DD GIRNAR",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1919.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN047:DD INDIA",
-                    "playerLabel": "IN047:DD INDIA",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1918.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN048:DD NATIONAL",
-                    "playerLabel": "IN048:DD NATIONAL",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1917.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN049:DD NEWS",
-                    "playerLabel": "IN049:DD NEWS",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1916.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN050:DD PUNJABI",
-                    "playerLabel": "IN050:DD PUNJABI",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1915.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN051:DD SPORTS",
-                    "playerLabel": "IN051:DD SPORTS",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1914.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN052:EXPRESS NEWS",
-                    "playerLabel": "IN052:EXPRESS NEWS",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1913.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN053:DISCOVERY CHANNEL",
-                    "playerLabel": "IN053:DISCOVERY CHANNEL",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1912.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN054:DISCOVERY KIDS",
-                    "playerLabel": "IN054:DISCOVERY KIDS",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1911.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN057:EPIC",
-                    "playerLabel": "IN057:EPIC",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1908.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN058:EUROSPORT",
-                    "playerLabel": "IN058:EUROSPORT",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1907.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN059:FREE SPORTS",
-                    "playerLabel": "IN059:FREE SPORTS",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1906.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN060:FOX LIFE",
-                    "playerLabel": "IN060:FOX LIFE",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1905.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN061:FRANCE 24",
-                    "playerLabel": "IN061:FRANCE 24",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1904.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN062:GARV PUNJAB",
-                    "playerLabel": "IN062:GARV PUNJAB",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1903.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN063:GAUNDA PUNJAB TV",
-                    "playerLabel": "IN063:GAUNDA PUNJAB TV",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1902.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN064:GEMINI COMEDY",
-                    "playerLabel": "IN064:GEMINI COMEDY",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1901.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN065:GEMINI MOVIES",
-                    "playerLabel": "IN065:GEMINI MOVIES",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1900.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN066:GEMINI TV",
-                    "playerLabel": "IN066:GEMINI TV",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1899.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN067:GS TV",
-                    "playerLabel": "IN067:GS TV",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1898.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN068:HARVEST TV USA",
-                    "playerLabel": "IN068:HARVEST TV USA",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1897.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN069:HBO",
-                    "playerLabel": "IN069:HBO",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1896.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN070:LIVING FOOD",
-                    "playerLabel": "IN070:LIVING FOOD",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1895.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN071:HISTORY CHANNEL",
-                    "playerLabel": "IN071:HISTORY CHANNEL",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1894.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN072:HISTORY TV18",
-                    "playerLabel": "IN072:HISTORY TV18",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1893.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN073:MAHA MOVIES",
-                    "playerLabel": "IN073:MAHA MOVIES",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1892.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN074:HUM TV",
-                    "playerLabel": "IN074:HUM TV",
-                    "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1891.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
-                },
-                {
-                    "badge": "2024",                  
-                    "tag": "Live",
-                    "tagColor": "msx-red",
-                    "badgeColor": "msx-yellow",
-                    "title": "IN079:INDIA NEWS",
+                    "title": "INDIA NEWS",
                     "playerLabel": "IN079:INDIA NEWS",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1886.m3u8",
-                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                    "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/india-news-in.png",
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -752,7 +330,11 @@
                     "playerLabel": "IN080:INDIA TODAY",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1885.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -763,7 +345,11 @@
                     "playerLabel": "IN081:INDIA TV",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1884.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -774,7 +360,11 @@
                     "playerLabel": "IN082:JANAM TV",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1883.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -785,7 +375,11 @@
                     "playerLabel": "IN083:JANTA TV",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1882.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -796,7 +390,11 @@
                     "playerLabel": "IN084:JAYA MAX",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1881.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -807,7 +405,11 @@
                     "playerLabel": "IN085:JAYA PLUS",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1880.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -818,7 +420,11 @@
                     "playerLabel": "IN086:JAYA TV",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1879.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -829,7 +435,11 @@
                     "playerLabel": "IN087:KAIRALI WE TV",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1878.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -840,7 +450,11 @@
                     "playerLabel": "IN088:MANORANJAN MOVIES",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1877.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -851,7 +465,11 @@
                     "playerLabel": "IN089:MUSIC INDIA",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1876.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -862,7 +480,11 @@
                     "playerLabel": "IN090:MANORANJAN TV",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1875.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -873,7 +495,11 @@
                     "playerLabel": "IN091:MBC BOLLYWOOD",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1874.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -884,7 +510,11 @@
                     "playerLabel": "IN092:MASTIII",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/1873.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -895,7 +525,11 @@
                     "playerLabel": "IN093:MOVIES NOW",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55360.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -906,7 +540,11 @@
                     "playerLabel": "IN094:MTV BEATS",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55359.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -917,7 +555,11 @@
                     "playerLabel": "IN095:NDTV 24X7",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55358.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -928,7 +570,11 @@
                     "playerLabel": "IN096:NEWS 24",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55357.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -939,7 +585,11 @@
                     "playerLabel": "IN097:NEWS NATION",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55356.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -950,7 +600,11 @@
                     "playerLabel": "IN098:NEWS18 LOKMAT",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55355.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -961,7 +615,11 @@
                     "playerLabel": "IN099:NEWS18 RAJASTHAN",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55354.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -972,7 +630,11 @@
                     "playerLabel": "IN100:NAT GEO",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55352.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -983,7 +645,11 @@
                     "playerLabel": "IN101:NAT GEO WILD",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55346.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -994,7 +660,11 @@
                     "playerLabel": "IN102:NICK JR",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55345.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1005,7 +675,11 @@
                     "playerLabel": "IN103:NEWS 18 KERALA",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55340.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1016,7 +690,11 @@
                     "playerLabel": "IN104:PITAARA TV",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55338.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1027,7 +705,11 @@
                     "playerLabel": "IN105:POLIMER NEWS",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55331.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1038,7 +720,11 @@
                     "playerLabel": "IN106:PTC NEWS (PUNJABI)",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55330.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1049,7 +735,11 @@
                     "playerLabel": "IN107:PTC",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55328.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1060,7 +750,11 @@
                     "playerLabel": "IN108:PTC PUNJABI",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55327.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1071,7 +765,11 @@
                     "playerLabel": "IN109:PUNJABI TV",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55326.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1082,7 +780,11 @@
                     "playerLabel": "IN110:RAJ DIGITAL PLUS",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55325.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1093,7 +795,11 @@
                     "playerLabel": "IN111:RAJ NEWS 24X7",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55324.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1104,7 +810,11 @@
                     "playerLabel": "IN112:RAJ TV",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55322.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1115,7 +825,11 @@
                     "playerLabel": "IN113:REPUBLIC TV",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55320.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1126,7 +840,11 @@
                     "playerLabel": "IN114:RISHTEY CINEPLEX",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55319.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1137,7 +855,11 @@
                     "playerLabel": "IN115:SANSKAR",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55313.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1148,7 +870,11 @@
                     "playerLabel": "IN116:SAB",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55311.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1159,7 +885,11 @@
                     "playerLabel": "IN117:SIRAJ TV",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55310.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1170,7 +900,11 @@
                     "playerLabel": "IN118:SAKSHI TV",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55309.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1181,7 +915,11 @@
                     "playerLabel": "IN119:SANGAT TV",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55308.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1192,7 +930,11 @@
                     "playerLabel": "IN130:SANGEET BANGLA",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55306.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1203,7 +945,11 @@
                     "playerLabel": "IN131:SONY MOVIES",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55305.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1214,7 +960,11 @@
                     "playerLabel": "IN132:SANJHA TV",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55303.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1225,7 +975,11 @@
                     "playerLabel": "IN133:SARDARI TV",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55301.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1236,7 +990,11 @@
                     "playerLabel": "IN134:SATSANG TV",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55300.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1247,7 +1005,11 @@
                     "playerLabel": "IN135:SHALOM TV",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55299.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1258,7 +1020,11 @@
                     "playerLabel": "IN136:SIKH CHANNEL",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55298.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1269,7 +1035,11 @@
                     "playerLabel": "IN137:STAR VIJAY HD",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55297.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1280,7 +1050,11 @@
                     "playerLabel": "IN138:SONY",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55296.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1291,7 +1065,11 @@
                     "playerLabel": "IN139:SUN MUSIC",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55295.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1302,7 +1080,11 @@
                     "playerLabel": "IN120:SONIC NICKELODEON",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55294.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1313,7 +1095,11 @@
                     "playerLabel": "IN121:SONY ACTION",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55292.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1324,7 +1110,11 @@
                     "playerLabel": "IN122:SONY PIX",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55291.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1335,7 +1125,11 @@
                     "playerLabel": "IN123:SONY SAB",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55290.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1346,7 +1140,11 @@
                     "playerLabel": "IN124:SONY SAB UK",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55289.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1357,7 +1155,11 @@
                     "playerLabel": "IN125:SONY SIX",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55285.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1368,7 +1170,11 @@
                     "playerLabel": "IN126:SONY TEN 1",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55284.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1379,7 +1185,11 @@
                     "playerLabel": "IN127:SONY TEN 2",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55282.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1390,7 +1200,11 @@
                     "playerLabel": "IN128:SONY TEN 3",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55281.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1401,7 +1215,11 @@
                     "playerLabel": "IN129:SONY TV ASIA",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55280.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1412,7 +1230,11 @@
                     "playerLabel": "IN140:Sony TV UK",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55279.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1423,7 +1245,11 @@
                     "playerLabel": "IN141:STAR PLUS",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55274.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1434,7 +1260,11 @@
                     "playerLabel": "IN142:STAR SPORTS 1",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55273.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1445,7 +1275,11 @@
                     "playerLabel": "IN143:STAR SPORTS 2",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55272.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1456,7 +1290,11 @@
                     "playerLabel": "IN144:STAR SPORTS 3",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55271.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1467,7 +1305,11 @@
                     "playerLabel": "IN145:STAR SPORTS SELECT 1",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55270.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1478,7 +1320,11 @@
                     "playerLabel": "IN146:STAR SPORTS SELECT 2",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55269.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1489,7 +1335,11 @@
                     "playerLabel": "IN147:SONY MAX",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55268.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1500,7 +1350,11 @@
                     "playerLabel": "IN148:SONY MAX 2",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55264.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1511,7 +1365,11 @@
                     "playerLabel": "IN149:SONY MIX",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55263.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1522,7 +1380,11 @@
                     "playerLabel": "IN150:SONY PAL",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55262.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1533,7 +1395,11 @@
                     "playerLabel": "IN151:SONY YAY",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55261.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1544,7 +1410,11 @@
                     "playerLabel": "IN152:SRI SANKARA TV",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55260.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1555,7 +1425,11 @@
                     "playerLabel": "IN153:STAR BHARAT",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55258.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1566,7 +1440,11 @@
                     "playerLabel": "IN154:STAR GOLD",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55257.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1577,7 +1455,11 @@
                     "playerLabel": "IN155:STAR GOLD SELECT",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55256.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1588,7 +1470,11 @@
                     "playerLabel": "IN156:STAR JALSHA",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55255.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1599,7 +1485,11 @@
                     "playerLabel": "IN157:STAR MAA",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55254.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1610,7 +1500,11 @@
                     "playerLabel": "IN158:STAR MOVIES",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55252.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1621,7 +1515,11 @@
                     "playerLabel": "IN159:SUN LIFE",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55251.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1632,7 +1530,11 @@
                     "playerLabel": "IN160:SUN TV",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55249.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1643,7 +1545,11 @@
                     "playerLabel": "IN161:SURYA MOVIES",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55248.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1654,7 +1560,11 @@
                     "playerLabel": "IN162:SURYA TV",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55247.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1665,7 +1575,11 @@
                     "playerLabel": "IN163:T SPORT BANGLA",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55246.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1676,7 +1590,11 @@
                     "playerLabel": "IN164:TEN 1",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55245.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1687,7 +1605,11 @@
                     "playerLabel": "IN165:TEN 2",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55244.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1698,7 +1620,11 @@
                     "playerLabel": "IN166:TAKBEER TV UK",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55243.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1709,7 +1635,11 @@
                     "playerLabel": "IN167:TIMES NOW",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55242.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1720,7 +1650,11 @@
                     "playerLabel": "IN168:TIMES NOW WORLD",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55241.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1731,7 +1665,11 @@
                     "playerLabel": "IN169:TLC HINDI",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55240.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1742,7 +1680,11 @@
                     "playerLabel": "IN170:TRANS TV",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55233.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1753,7 +1695,11 @@
                     "playerLabel": "IN171:TRAVEL XP",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55232.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1764,7 +1710,11 @@
                     "playerLabel": "IN172:TV9 GUJARATI",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55229.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1775,7 +1725,11 @@
                     "playerLabel": "IN173:TV9 TELUGU",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55228.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1786,7 +1740,11 @@
                     "playerLabel": "IN174:UTSAV BHARAT",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55227.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1797,7 +1755,11 @@
                     "playerLabel": "IN175:UTSAV PLUS",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55225.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1808,7 +1770,11 @@
                     "playerLabel": "IN176:UTV",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55224.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1819,7 +1785,11 @@
                     "playerLabel": "IN177:UTV MOVIES",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55222.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1830,7 +1800,11 @@
                     "playerLabel": "IN178:UTSAV GOLD",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55221.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1841,7 +1815,11 @@
                     "playerLabel": "IN179:WION TV",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55220.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1852,7 +1830,11 @@
                     "playerLabel": "IN180:WILLOW CRICKET",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55219.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1863,7 +1845,11 @@
                     "playerLabel": "IN181:ZEE 24 KALAK",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55218.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1874,7 +1860,11 @@
                     "playerLabel": "IN182:ZEE ACTION",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55217.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1885,7 +1875,11 @@
                     "playerLabel": "IN183:ZEE BANGLA",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55216.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1896,7 +1890,11 @@
                     "playerLabel": "IN184:ZEE BANGLA CINEMA",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55213.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1907,7 +1905,11 @@
                     "playerLabel": "IN185:ZEE BOLLYWOOD",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55212.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1918,7 +1920,11 @@
                     "playerLabel": "IN186:ZEE CINEMA",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55210.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1929,7 +1935,11 @@
                     "playerLabel": "IN187:ZEE CINEMA USA",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55209.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1940,7 +1950,11 @@
                     "playerLabel": "IN188:ZEE ETC BOLLYWOOD",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55208.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1951,7 +1965,11 @@
                     "playerLabel": "IN189:ZEE SALAAM",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55207.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1962,7 +1980,11 @@
                     "playerLabel": "IN190:ZEE MARATHI",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55178.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1973,7 +1995,11 @@
                     "playerLabel": "IN191:ZEE NEWS",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55164.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1984,7 +2010,11 @@
                     "playerLabel": "IN192:ZEE PUNJABI",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55163.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -1995,7 +2025,11 @@
                     "playerLabel": "IN193:ZEE TALKIES",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55159.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -2006,7 +2040,11 @@
                     "playerLabel": "IN194:ZEE TAMIL",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55158.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -2017,7 +2055,11 @@
                     "playerLabel": "IN195:ZEE TELUGU",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/55017.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -2028,7 +2070,11 @@
                     "playerLabel": "IN196:ZEE TV",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/54975.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -2039,7 +2085,11 @@
                     "playerLabel": "IN197:ZING",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/66707.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -2050,7 +2100,11 @@
                     "playerLabel": "IN198:ZING INDIA",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/66708.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -2061,7 +2115,11 @@
                     "playerLabel": "IN199:ZOOM",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/66709.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -2072,7 +2130,11 @@
                     "playerLabel": "IN200:ZEE (KANNADA)",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/66710.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 },
                 {
                     "badge": "2024",                  
@@ -2083,7 +2145,11 @@
                     "playerLabel": "IN201:UDAYA TV (KANNADA)",
                     "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5055/57221359/66711.m3u8",
                     "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/php-api/logos/",
-                    "imageFiller": "height-center"
+                                        "imageColor": "msx-white",
+                    "color": "msx-black", 
+                    "imageFiller": "default",
+                    "imageWidth": 120,
+                    "imageHeight": -1
                 }
             ]
 }
