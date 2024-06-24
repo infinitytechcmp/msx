@@ -4,10 +4,40 @@
     "transparent": 2,
     "menu": [
         {
-            "icon": "info",
-            "label": "Intro",
-            "data": "https://infinitytechcmp.github.io/msx/data/base/tv-json/sonyliv.json",
-            "background": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/shows/shrimad_ramayan.jpg"
+            "icon": "movie",
+            "label": "Shrimad Ramayan",
+            "data": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ramayan.json",
+            "background": "https://infinitytechcmp.github.io/msx/data/thumbs/tv-images/wallpaper2.jpg"
+        },
+        {
+            "icon": "movie",
+            "label": "Scam 1992",
+            "data": "https://infinitytechcmp.github.io/msx/data/base/tv-json/scam1992.json",
+            "background": "https://infinitytechcmp.github.io/msx/data/thumbs/tv-images/wallpaper2.jpg"
+        },
+        {
+            "icon": "movie",
+            "label": "Gullak Season 1",
+            "data": "https://infinitytechcmp.github.io/msx/data/base/tv-json/gullak1.json",
+            "background": "https://infinitytechcmp.github.io/msx/data/thumbs/tv-images/wallpaper2.jpg"
+        },
+        {
+            "icon": "movie",
+            "label": "Gullak Season 2",
+            "data": "https://infinitytechcmp.github.io/msx/data/base/tv-json/gullak2.json",
+            "background": "https://infinitytechcmp.github.io/msx/data/thumbs/tv-images/wallpaper2.jpg"
+        },
+        {
+            "icon": "movie",
+            "label": "Gullak Season 3",
+            "data": "https://infinitytechcmp.github.io/msx/data/base/tv-json/gullak3.json",
+            "background": "https://infinitytechcmp.github.io/msx/data/thumbs/tv-images/wallpaper2.jpg"
+        },
+        {
+            "icon": "movie",
+            "label": "Gullak Season 4",
+            "data": "https://infinitytechcmp.github.io/msx/data/base/tv-json/gullak4.json",
+            "background": "https://infinitytechcmp.github.io/msx/data/thumbs/tv-images/wallpaper2.jpg"
         }
     ]
 }
