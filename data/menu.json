@@ -24,7 +24,7 @@
         {
             "icon": "sports-cricket",
             "label": "Sports",
-            "data": "https://infinitytechcmp.github.io/msx/data/base/videos.json",
+            "data": "https://infinitytechcmp.github.io/msx/data/base/sports.json",
             "background": "https://infinitytechcmp.github.io/msx/data/thumbs/tv-images/wallpaper2.jpg"
         },
         {
