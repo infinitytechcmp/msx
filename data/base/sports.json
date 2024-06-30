@@ -8,28 +8,28 @@
     },
     "items": [
         {
-            "title": "ICC T20 WC India Vs Ireland Highlights",
-            "playerLabel": "ICC T20 WC India Vs Ireland Highlights",
-            "image": "https://infinitytechcmp.github.io/msx/data/thumbs/ind-ire.jpg",
-            "icon": "https://infinitytechcmp.github.io/msx/data/thumbs/ind-ire.jpg",
+            "title": "ICC T20 WC Ind Vs SA Final Highlights",
+            "playerLabel": "ICC T20 WC Ind Vs SA Final Highlights",
+            "image": "https://infinitytechcmp.github.io/msx/data/thumbs/1.png",
+            "icon": "https://infinitytechcmp.github.io/msx/data/thumbs/1.png",
             "imageFiller":"height-center",
-            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://adilo.bigcommand.com/59df7ab1-35db-4893-984f-7b1a3a188e5f.m3u8"
+            "action": "video:https://arunsmedia.fun/sport-video/videos/InvincibleINDAceSALift2ndTitle.mp4"
         },
         {
-            "title": "ICC T20 WC India Vs Pakistan Highlights",
-            "playerLabel": "ICC T20 WC India Vs Pakistan Highlights",
-            "image": "https://infinitytechcmp.github.io/msx/data/thumbs/ind-pak.jpg",
-            "icon": "https://infinitytechcmp.github.io/msx/data/thumbs/ind-pak.jpg",
+            "title": "ICC T20 WC Pull of the World cup",
+            "playerLabel": "ICC T20 WC Pull of the World cup",
+            "image": "https://infinitytechcmp.github.io/msx/data/thumbs/2.png",
+            "icon": "https://infinitytechcmp.github.io/msx/data/thumbs/2.png",
             "imageFiller":"height-center",
-            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://adilo.bigcommand.com/3f5a13ee-553a-4370-be1e-31fea176e136.m3u8"
+            "action": "video:https://arunsmedia.fun/sport-video/videos/INDPulloffaMiraclefor2ndTitle.mp4"
         },
         {
-            "title": "ICC T20 WC India Vs Usa Highlights",
-            "playerLabel": "ICC T20 WC India Vs Usa Highlights",
-            "image": "https://infinitytechcmp.github.io/msx/data/thumbs/ind-usa.jpg",
-            "icon": "https://infinitytechcmp.github.io/msx/data/thumbs/ind-usa.jpg",
+            "title": "ICC T20 WC India Lift The World Cup",
+            "playerLabel": "ICC T20 WC India Lift The World Cup",
+            "image": "https://infinitytechcmp.github.io/msx/data/thumbs/3.png",
+            "icon": "https://infinitytechcmp.github.io/msx/data/thumbs/3.png",
             "imageFiller":"height-center",
-            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://adilo.bigcommand.com/25f75ae2-3a48-450f-b013-1a9887ee5ed7.m3u8"
+            "action": "video:https://arunsmedia.fun/sport-video/videos/INDLiftICCMen_sT20WCTrophy.mp4"
         }
     ]
 }
