@@ -9,7 +9,7 @@
        {
           "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv.jpg",
           "imageFiller": "height-center",
-          "action": "link:https://madstream.in/movies/all/newest.html"
+          "action": "link:https://www.sonyliv.com/"
        },
        {
           "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/hotstar.png",
@@ -18,11 +18,13 @@
        },
        {
           "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/prime.jpg",
-          "imageFiller": "height-center"
+          "imageFiller": "height-center",
+          "action": "link:https://ott.primepixelmedia.in/movies.html"
        },
        {
           "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/netflix.jpg",
-          "imageFiller": "height-center"
+          "imageFiller": "height-center",
+          "action": "link:https://primepixelmedia.in/player.php?url=https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8"
        },
        {
           "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/zee5.jpg",
