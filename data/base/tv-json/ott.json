@@ -9,7 +9,7 @@
        {
           "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv.jpg",
           "imageFiller": "height-center",
-          "action": "link:https://www.sonyliv.com/"
+          "action": "content:http://msx.benzac.de/services/m3u.php?type=video&url=http://infinitytechcmp.github.io/msx/m3u/tv.m3u"
        },
        {
           "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/hotstar.png",
