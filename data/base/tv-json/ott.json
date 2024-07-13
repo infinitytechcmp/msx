@@ -9,11 +9,12 @@
        {
           "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv.jpg",
           "imageFiller": "height-center",
-          "action": "menu:https://infinitytechcmp.github.io/msx/data/base/tv-json/sonyliv.json"
+          "action": "link:https://madstream.in/movies/all/newest.html"
        },
        {
           "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/hotstar.png",
-          "imageFiller": "height-center"
+          "imageFiller": "height-center",
+          "action": "link:https://www.hotstar.com/in"
        },
        {
           "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/prime.jpg",
