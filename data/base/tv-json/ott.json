@@ -72,12 +72,7 @@
                   "headline": "Disney+ Hotstar Shows",
                   "template": {
                      "type": "separate",
-                     "layout": "0,0,2,4",
-                     "color": "msx-glass",
-                     "icon": "msx-white-soft:movie",
-                     "iconSize": "medium",
-                     "title": "Title",
-                     "titleFooter": "Title Footer"
+                     "layout": "0,0,2,4"
                   },
                   "items": [
                      {
@@ -119,9 +114,16 @@
                               {
                                  "title": "Episode 1",
                                  "alignment": "center",
-                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/hotstar/mahabharat/1.webp",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/hotstar/mahabharat/episode.webp",
                                  "imageFiller": "height-center",
                                  "action": "video:https://archive.org/download/ep-1_20221025/Ep%201.mp4"
+                              },
+                              {
+                                 "title": "Episode 2",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/hotstar/mahabharat/episode.webp",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://archive.org/download/ep-1_20221025/Ep%202.mp4"
                               }
                            ]
                         }
