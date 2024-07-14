@@ -64,7 +64,7 @@
                         "title": "Gullak",
                         "alignment": "center",
                         "action": "panel:data",
-                        "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/ott/sonyliv/gullak/poster.jpg",
+                        "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/gullak/poster.jpg",
                         "imageFiller": "height-center",
                         "data": {
                            "headline": "Gullak Episodes",
