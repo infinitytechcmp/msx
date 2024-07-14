@@ -6,6 +6,16 @@
        "layout": "0,0,4,4"
     },
     "items": [
+      {
+         "tag": "Web",
+         "enumerate": true,
+         "type": "separate",
+         "layout": "0,0,2,3",
+         "icon": "msx-white-soft:public",
+         "color": "msx-glass",
+         "title": "Link 1",
+         "action": "link:https://primepixelmedia.in/player.php?url=http://yesimes.oknirvana.club:8880/live/29us031901/adsf3rdsdc/1931.m3u8"
+      },
        {
           "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv.jpg",
           "imageFiller": "height-center",
