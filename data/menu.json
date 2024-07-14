@@ -6,7 +6,7 @@
         {
             "icon": "info",
             "label": "Intro",
-            "data": "http://msx.benzac.de/services/m3u.php?type=video&url=http://msx.benzac.de/info/data/m3u/videos.m3u",
+            "data": "https://infinitytechcmp.github.io/msx/data/welcome.json",
             "background": "https://infinitytechcmp.github.io/msx/data/thumbs/tv-images/wallpaper2.jpg"
         },
         {
