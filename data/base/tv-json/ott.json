@@ -1,19 +1,106 @@
 {
    "type": "pages",
-   "headline": "Template",
-   "template": {
-      "type": "separate",
-      "layout": "0,0,3,3"
-   },
+   "headline": "OTT Platforms",
    "pages": [
       {
          "items": [
             {
-               "type": "button",
-               "label": "Panel",
-               "action": "panel:data",
+               "layout": "0,0,3,3",
                "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/hotstar.png",
                "imageFiller": "height-center",
+               "action": "panel:data",
+               "data": {
+                  "headline": "Template",
+                  "template": {
+                     "type": "separate",
+                     "layout": "0,0,2,4",
+                     "color": "msx-glass",
+                     "icon": "msx-white-soft:movie",
+                     "iconSize": "medium",
+                     "title": "Title",
+                     "titleFooter": "Title Footer"
+                  },
+                  "items": [
+                     {
+                        "title": "Item 1"
+                     }
+                  ]
+               }
+            },
+            {
+               "layout": "3,0,3,3",
+               "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/hotstar.png",
+               "imageFiller": "height-center",
+               "action": "panel:data",
+               "data": {
+                  "headline": "Template",
+                  "template": {
+                     "type": "separate",
+                     "layout": "0,0,2,4",
+                     "color": "msx-glass",
+                     "icon": "msx-white-soft:movie",
+                     "iconSize": "medium",
+                     "title": "Title",
+                     "titleFooter": "Title Footer"
+                  },
+                  "items": [
+                     {
+                        "title": "Item 1"
+                     }
+                  ]
+               }
+            },
+            {
+               "layout": "6,0,3,3",
+               "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/hotstar.png",
+               "imageFiller": "height-center",
+               "action": "panel:data",
+               "data": {
+                  "headline": "Template",
+                  "template": {
+                     "type": "separate",
+                     "layout": "0,0,2,4",
+                     "color": "msx-glass",
+                     "icon": "msx-white-soft:movie",
+                     "iconSize": "medium",
+                     "title": "Title",
+                     "titleFooter": "Title Footer"
+                  },
+                  "items": [
+                     {
+                        "title": "Item 1"
+                     }
+                  ]
+               }
+            },
+            {
+               "layout": "9,0,3,3",
+               "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/hotstar.png",
+               "imageFiller": "height-center",
+               "action": "panel:data",
+               "data": {
+                  "headline": "Template",
+                  "template": {
+                     "type": "separate",
+                     "layout": "0,0,2,4",
+                     "color": "msx-glass",
+                     "icon": "msx-white-soft:movie",
+                     "iconSize": "medium",
+                     "title": "Title",
+                     "titleFooter": "Title Footer"
+                  },
+                  "items": [
+                     {
+                        "title": "Item 1"
+                     }
+                  ]
+               }
+            },
+            {
+               "layout": "0,3,3,3",
+               "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/hotstar.png",
+               "imageFiller": "height-center",
+               "action": "panel:data",
                "data": {
                   "headline": "Template",
                   "template": {
