@@ -12,6 +12,48 @@
             "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/83.jpg",
             "imageFiller": "height-center",
             "action": "video:https://archive.org/download/bolleyBall_bollywood/83.2021.1080p.Hindi.WEB-DL.5.1.ESub.x264-Betamovies.xyz.mkv-h264_720p.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Bajirao-Mastani.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/bolleyBall_bollywood/Bajirao%20Mastani%20%282015%29%20720p%20Hindi%20HDRip%20CineMax%20.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Bharat.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/bolleyBall_bollywood/Bharat.2019.Hindi.1080p.HDRip.themoviesflix.in.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Bhool-Bhulaiyaa.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/bolleyBall_bollywood/Bhool%20Bhulaiyaa%202007%20Hindi%20www.downloadhub.ninja%20720p%20BluRay%20x264.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Bhool-Bhulaiyaa-2.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/bolleyBall_bollywood/Bhool.Bhulaiyaa-2.2022.1080p.Hindi.WEB-DL.5.1.ESub.x264-HDhub4u.Tv.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Dharmaveer.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/bolleyBall_bollywood/Dharmaveer_2022_Marathi_Full_Movie_HDRip-%28CooLmovieZ.live%29.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/kaun-pravin.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/bolleyBall_bollywood/Kaun%20Pravin%20Tambe%20%282022%29%201080p%20HQ%20DSNP%20WEB-DL%20x264%20%28DD%2B%205.1%20-%20192Kbps%29%20ESubs%20_Vegamovies.NL.mp4"
         }
     ]
 }
