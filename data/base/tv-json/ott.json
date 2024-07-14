@@ -6,35 +6,22 @@
        "layout": "0,0,4,4"
     },
     "items": [
-      {
-         "tag": "Web",
-         "enumerate": true,
-         "type": "separate",
-         "layout": "0,0,2,3",
-         "icon": "msx-white-soft:public",
-         "color": "msx-glass",
-         "title": "Link 1",
-         "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://yesimes.oknirvana.club:8880/live/29us031901/adsf3rdsdc/1931.m3u8"
-      },
        {
           "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv.jpg",
           "imageFiller": "height-center",
-          "action": "content:http://msx.benzac.de/services/m3u.php?type=video&url=http://infinitytechcmp.github.io/msx/m3u/tv.m3u"
+          "action": "menu:https://infinitytechcmp.github.io/msx/data/base/tv-json/sonyliv.json"
        },
        {
           "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/hotstar.png",
-          "imageFiller": "height-center",
-          "action": "link:https://www.hotstar.com/in"
+          "imageFiller": "height-center"
        },
        {
           "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/prime.jpg",
-          "imageFiller": "height-center",
-          "action": "link:https://ott.primepixelmedia.in/movies.html"
+          "imageFiller": "height-center"
        },
        {
           "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/netflix.jpg",
-          "imageFiller": "height-center",
-          "action": "link:https://primepixelmedia.in/player.php?url=https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8"
+          "imageFiller": "height-center"
        },
        {
           "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/zee5.jpg",
