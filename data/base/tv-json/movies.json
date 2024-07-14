@@ -54,6 +54,76 @@
             "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/kaun-pravin.jpg",
             "imageFiller": "height-center",
             "action": "video:https://archive.org/download/bolleyBall_bollywood/Kaun%20Pravin%20Tambe%20%282022%29%201080p%20HQ%20DSNP%20WEB-DL%20x264%20%28DD%2B%205.1%20-%20192Kbps%29%20ESubs%20_Vegamovies.NL.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Laxmii.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/bolleyBall_bollywood/Laxmii.%282020%29.Hindi.1080p.WEB-DL.3.4GB.ESub.Vegamovies.NL.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Pawankhind.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/bolleyBall_bollywood/Pawankhind%20%282022%29%201080p%20HQ%20AMZN%20WEB-DL%20x265%20%5BMarathi%20%28DD%2B%205.1%20-%20640Kbps%20%26%20AAC%202.0%29%5D%20ESubs%20_%5BVegamovies.NL%5D%20TheDNK_.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Sairat.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/bolleyBall_bollywood/Sairat%20%5B2016%5D%5BMarathi%5DHD%40IndianMoviez.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Welcome.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/bolleyBall_bollywood/Welcome%20Full%20Movie%20__%20Blockbuster%20Movie%20%20__%20%2313years%20__%20Akshay%20Kumar%20-%20Paresh%20Rawal%20-%20%20Nana%20Patekar.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Great.Grand.Masti.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/bollywood_202106/Great.Grand.Masti.2016.Www.SumanChakrabortty.Ml.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Shershaah.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/bollywood_202106/Shershaah.2021.Hindi.720p.Www.SumanChakrabortty.Ml.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Sooryavanshi.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/bollywood_202106/Sooryavanshi_%282021%29_Hindi_720p.Www.SumanChakrabortty.Ml.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/baby.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithB1/Baby_2015_1080_Hindi_6CH_Action_Thriller.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/badrinath-nath-ki-dulhaniya.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithB1/Badrinath_Ki_Dulhania_2017_1080_Hindi_6CH_Roamance_Drama.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/bala.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithB1/Bala_2019_1080_Hindi_6CH_Drama_Romance.mp4"
         }
     ]
 }
