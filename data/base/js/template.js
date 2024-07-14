@@ -127,3 +127,7 @@ TVXPluginTools.onReady(function() {
     TVXVideoPlugin.init();
 });
 /******************************************************************************/
+
+function playmu(){
+    alert('play clicked');
+}
