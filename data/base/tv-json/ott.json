@@ -13,31 +13,26 @@
                   "headline": "Sony Liv Shows",
                   "template": {
                      "type": "separate",
-                     "layout": "0,0,2,4",
-                     "color": "msx-glass",
-                     "icon": "msx-white-soft:movie",
-                     "iconSize": "medium",
-                     "title": "Title",
-                     "titleFooter": "Title Footer"
+                     "layout": "0,0,2,4"
                   },
                   "items": [
                      {
-                        "title": "Gullak",
+                        "title": "Shrimad Ramayan",
+                        "alignment": "center",
                         "action": "panel:data",
+                        "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/shows/shrimad_ramayan.jpg",
+                        "imageFiller": "height-center",
                         "data": {
-                           "headline": "Gullak",
+                           "headline": "Shrimad Ramayan Episodes",
                            "template": {
                               "type": "separate",
-                              "layout": "0,0,2,4",
-                              "color": "msx-glass",
-                              "icon": "msx-white-soft:movie",
-                              "iconSize": "medium",
-                              "title": "Title",
-                              "titleFooter": "Title Footer"
+                              "layout": "0,0,2,4"
                            },
                            "items": [
                               {
-                                 "title": "Item 1 SUB"
+                                 "title": "Episode 1",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/shrimad_ramayan/1.jpg",
+                                 "imageFiller": "height-center"
                               }
                            ]
                         }
