@@ -128,6 +128,6 @@ TVXPluginTools.onReady(function() {
 });
 /******************************************************************************/
 
-function playmu(){
+this.playmu = function() {
     alert('play clicked');
-}
+};
