@@ -1,12 +1,15 @@
 {
    "type": "pages",
    "headline": "Template",
+   "template": {
+      "type": "separate",
+      "layout": "0,0,3,3"
+   },
    "pages": [
       {
          "items": [
             {
                "type": "button",
-               "layout": "0,0,3,3",
                "label": "Panel",
                "action": "panel:data",
                "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/hotstar.png",
