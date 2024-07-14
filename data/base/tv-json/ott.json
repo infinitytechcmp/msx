@@ -59,6 +59,120 @@
                               }
                            ]
                         }
+                     },
+                     {
+                        "title": "Gullak",
+                        "alignment": "center",
+                        "action": "panel:data",
+                        "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/ott/sonyliv/gullak/poster.jpg",
+                        "imageFiller": "height-center",
+                        "data": {
+                           "headline": "Gullak Episodes",
+                           "template": {
+                              "type": "separate",
+                              "layout": "0,0,2,4"
+                           },
+                           "items": [
+                              {
+                                 "title": "S01 E01",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/gullak/episode.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://archive.org/download/Dbdjdbbd/Gullak%20S1%20Ep1.mp4"
+                              },
+                              {
+                                 "title": "S01 E02",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/gullak/episode.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://archive.org/download/Dbdjdbbd/Gullak%20S1%20Ep2.mp4"
+                              },
+                              {
+                                 "title": "S01 E03",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/gullak/episode.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://archive.org/download/Dbdjdbbd/Gullak%20S1%20Ep3.mp4"
+                              },
+                              {
+                                 "title": "S01 E04",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/gullak/episode.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://archive.org/download/Dbdjdbbd/Gullak%20S1%20Ep4.mp4"
+                              },
+                              {
+                                 "title": "S01 E05",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/gullak/episode.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://archive.org/download/Dbdjdbbd/Gullak%20S1%20Ep5.mp4"
+                              },
+                              {
+                                 "title": "S02 E02",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/gullak/episode.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://archive.org/download/Dbdjdbbd/Gullak%20S2%20Ep2.mp4"
+                              },
+                              {
+                                 "title": "S02 E03",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/gullak/episode.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://archive.org/download/Dbdjdbbd/Gullak%20S2%20Ep3.mp4"
+                              },
+                              {
+                                 "title": "S02 E04",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/gullak/episode.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://archive.org/download/Dbdjdbbd/Gullak%20S2%20Ep4.mp4"
+                              },
+                              {
+                                 "title": "S02 E05",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/gullak/episode.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://archive.org/download/Dbdjdbbd/Gullak%20S2%20Ep5.mp4"
+                              },
+                              {
+                                 "title": "S03 E01",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/gullak/episode.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://archive.org/download/Dbdjdbbd/Gullak%20S3%20Ep1.mp4"
+                              },
+                              {
+                                 "title": "S03 E02",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/gullak/episode.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://archive.org/download/Dbdjdbbd/Gullak%20S3%20Ep2.mp4"
+                              },
+                              {
+                                 "title": "S03 E03",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/gullak/episode.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://archive.org/download/Dbdjdbbd/Gullak%20S3%20Ep3.mp4"
+                              },
+                              {
+                                 "title": "S03 E04",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/gullak/episode.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://archive.org/download/Dbdjdbbd/Gullak%20S3%20Ep4.mp4"
+                              },
+                              {
+                                 "title": "S03 E05",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/gullak/episode.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://archive.org/download/Dbdjdbbd/Gullak%20S3%20Ep5.mp4"
+                              }
+                           ]
+                        }
                      }
                   ]
                }
@@ -124,6 +238,13 @@
                                  "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/hotstar/mahabharat/episode.webp",
                                  "imageFiller": "height-center",
                                  "action": "video:https://archive.org/download/ep-1_20221025/Ep%202.mp4"
+                              },
+                              {
+                                 "title": "Episode 3",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/hotstar/mahabharat/episode.webp",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://archive.org/download/ep-1_20221025/Ep%203.mp4"
                               }
                            ]
                         }
