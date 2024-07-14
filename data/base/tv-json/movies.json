@@ -124,6 +124,41 @@
             "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/bala.jpg",
             "imageFiller": "height-center",
             "action": "video:https://archive.org/download/HindooPicturesStartWithB1/Bala_2019_1080_Hindi_6CH_Drama_Romance.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Bajrangi_BhaiJaan.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithB1/Bajrangi_Bhaijaan_2015_1080_Hindi_6CH_Action_Drama.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Baghban.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithB1/Baghban_2003_1080_Hindi_6CH_Romance_Drama.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Bhagam_Bhag.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithB1/Bhagam_Bhag_2006_1080_Hindi_6CH_Comedy.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Bhuj_The_Pride_of_India.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithB1/Bhuj_The_Pride_of_India_2021_1080_Hindi_6CH_Drama_Historical.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Billu.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithB1/Billu_2009_1080_Hindi_6CH_Musical_Drama.mp4"
         }
     ]
 }
