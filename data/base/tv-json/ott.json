@@ -31,8 +31,27 @@
                            "items": [
                               {
                                  "title": "Episode 1",
+                                 "alignment": "center",
                                  "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/shrimad_ramayan/1.jpg",
-                                 "imageFiller": "height-center"
+                                 "imageFiller": "width-center"
+                              },
+                              {
+                                 "title": "Episode 2",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/shrimad_ramayan/2.jpg",
+                                 "imageFiller": "width-center"
+                              },
+                              {
+                                 "title": "Episode 3",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/shrimad_ramayan/3.jpg",
+                                 "imageFiller": "width-center"
+                              },
+                              {
+                                 "title": "Episode 4",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/shrimad_ramayan/4.jpg",
+                                 "imageFiller": "width-center"
                               }
                            ]
                         }
