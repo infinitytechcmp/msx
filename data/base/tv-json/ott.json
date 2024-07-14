@@ -173,6 +173,92 @@
                               }
                            ]
                         }
+                     },
+                     {
+                        "title": "Scam 1992",
+                        "alignment": "center",
+                        "action": "panel:data",
+                        "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/scam92/poster.jpg",
+                        "imageFiller": "height-center",
+                        "data": {
+                           "headline": "Scam 1992 Episodes",
+                           "template": {
+                              "type": "separate",
+                              "layout": "0,0,2,4"
+                           },
+                           "items": [
+                              {
+                                 "title": "S01 E01",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/scam92/episode.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://archive.org/download/scam-1992-full-series/Scam.1992.S01.E01.Hindi.720p.HEVC.WEB-DL.x265-HDHubu4u.Link.mp4"
+                              },
+                              {
+                                 "title": "S01 E02",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/scam92/episode.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://archive.org/download/scam-1992-full-series/Scam.1992.S01.E02.Hindi.720p.HEVC.WEB-DL.x265-HDHubu4u.Link.mp4"
+                              },
+                              {
+                                 "title": "S01 E03",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/scam92/episode.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://archive.org/download/scam-1992-full-series/Scam.1992.S01.E03.Hindi.720p.HEVC.WEB-DL.x265-HDHubu4u.Link.mp4"
+                              },
+                              {
+                                 "title": "S01 E04",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/scam92/episode.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://archive.org/download/scam-1992-full-series/Scam.1992.S01.E04.Hindi.720p.HEVC.WEB-DL.x265-HDHubu4u.Link.mp4"
+                              },
+                              {
+                                 "title": "S01 E05",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/scam92/episode.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://archive.org/download/scam-1992-full-series/Scam.1992.S01.E05.Hindi.720p.HEVC.WEB-DL.x265-HDHubu4u.Link.mp4"
+                              },
+                              {
+                                 "title": "S01 E06",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/scam92/episode.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://archive.org/download/scam-1992-full-series/Scam.1992.S01.E06.Hindi.720p.HEVC.WEB-DL.x265-HDHubu4u.Link.mp4"
+                              },
+                              {
+                                 "title": "S01 E07",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/scam92/episode.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://archive.org/download/scam-1992-full-series/Scam.1992.S01.E07.Hindi.720p.HEVC.WEB-DL.x265-HDHubu4u.Link.mp4"
+                              },
+                              {
+                                 "title": "S01 E08",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/scam92/episode.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://archive.org/download/scam-1992-full-series/Scam.1992.S01.E08.Hindi.720p.HEVC.WEB-DL.x265-HDHubu4u.Link.mp4"
+                              },
+                              {
+                                 "title": "S01 E09",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/scam92/episode.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://archive.org/download/scam-1992-full-series/Scam.1992.S01.E09.Hindi.720p.HEVC.WEB-DL.x265-HDHubu4u.Link.mp4"
+                              },
+                              {
+                                 "title": "S01 E10",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/scam92/episode.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://archive.org/download/scam-1992-full-series/Scam.1992.S01.E10.Hindi.720p.HEVC.WEB-DL.x265-HDHubu4u.Link.mp4"
+                              }
+                           ]
+                        }
                      }
                   ]
                }
