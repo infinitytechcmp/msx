@@ -6,6 +6,36 @@
        "layout": "0,0,4,4"
     },
     "items": [
+      {
+         "tag": "Web",
+         "enumerate": true,
+         "type": "separate",
+         "layout": "0,0,2,3",
+         "icon": "msx-white-soft:public",
+         "color": "msx-glass",
+         "title": "Link 1",
+         "action": "link:https://player.primepixelmedia.in/new-movies.html"
+      },
+      {
+         "tag": "Web",
+         "enumerate": true,
+         "type": "separate",
+         "layout": "2,0,2,3",
+         "icon": "msx-white-soft:public",
+         "color": "msx-glass",
+         "title": "Link 2",
+         "action": "link:https://www.sonyliv.com/"
+      },
+      {
+         "tag": "Web",
+         "enumerate": true,
+         "type": "separate",
+         "layout": "4,0,2,3",
+         "icon": "msx-white-soft:public",
+         "color": "msx-glass",
+         "title": "Link 3",
+         "action": "link:window:https://player.primepixelmedia.in/new-movies.html"
+      },
        {
           "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv.jpg",
           "imageFiller": "height-center",
