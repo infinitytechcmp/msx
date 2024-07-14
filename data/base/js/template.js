@@ -40,6 +40,7 @@ function TemplatePlayer() {
     };
     this.play = function() {
         logger.debug("Play");
+        playmu();
     };
     this.pause = function() {
         logger.debug("Pause");
