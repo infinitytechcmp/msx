@@ -69,7 +69,7 @@
                "imageFiller": "height-center",
                "action": "panel:data",
                "data": {
-                  "headline": "Sony Liv Shows",
+                  "headline": "Disney+ Hotstar Shows",
                   "template": {
                      "type": "separate",
                      "layout": "0,0,2,4",
@@ -81,22 +81,47 @@
                   },
                   "items": [
                      {
-                        "title": "Gullak",
+                        "title": "Ramayan 2008",
+                        "alignment": "center",
                         "action": "panel:data",
+                        "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/hotstar/ramayan/poster.webp",
+                        "imageFiller": "height-center",
                         "data": {
-                           "headline": "Gullak",
+                           "headline": "Ramayan 2008 Episodes",
                            "template": {
                               "type": "separate",
-                              "layout": "0,0,2,4",
-                              "color": "msx-glass",
-                              "icon": "msx-white-soft:movie",
-                              "iconSize": "medium",
-                              "title": "Title",
-                              "titleFooter": "Title Footer"
+                              "layout": "0,0,2,4"
                            },
                            "items": [
                               {
-                                 "title": "Item 1 SUB"
+                                 "title": "Episode 1",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/hotstar/ramayan/1.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=ss2IcwEzR5s"
+                              }
+                           ]
+                        }
+                     },
+                     {
+                        "title": "Mahabharat",
+                        "alignment": "center",
+                        "action": "panel:data",
+                        "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/hotstar/mahabharat/poster.jpg",
+                        "imageFiller": "height-center",
+                        "data": {
+                           "headline": "Mahabharat Episodes",
+                           "template": {
+                              "type": "separate",
+                              "layout": "0,0,2,4"
+                           },
+                           "items": [
+                              {
+                                 "title": "Episode 1",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/hotstar/mahabharat/1.webp",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://archive.org/download/ep-1_20221025/Ep%201.mp4"
                               }
                            ]
                         }
