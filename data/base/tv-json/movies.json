@@ -453,6 +453,181 @@
             "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Jolly_LLB_2.jpg",
             "imageFiller": "height-center",
             "action": "video:https://archive.org/download/HindooPicturesStartWithJ1/Jolly_LLB_2_2017_1080_6CH_Hindi_Comedy_Mystry.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Kabhi_Khushi_Kabhie_Gham.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithK1/Kabhi_Khushi_Kabhie_Gham_2001_Hindi_6CH_Drama_Family.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Kantara.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithK1/Kantara_2022_1080_Hindi_6CH_%20Kannada_6CH_Action_Drama.mkv"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Kesari.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithK1/Kesari_2019_1080_Hindi_6CH_War_History.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Khichdi_The_Movie.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithK1/Khichdi_The_Movie_2010_1080_Hindi_6CH_Comedy.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Khiladi_786.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithK1/Khiladi_786_2012_1080_Hindi_6CH_Action_Comedy.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Koi_Mil_Gaya.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithK1/Koi_Mil_Gaya_2003_1080_Hindi_2CH_Fantasy_Romance.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/M.S_Dhoni_The_Untold_Story.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithM1/M.S_Dhoni_The_Untold_Story_2016_1080_Hindi_6CH_Drama_Biography.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Main_Hoon_Na.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithM1/Main_Hoon_Na_2004_1080_Hindi_6CH_Romance_Action.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Maine_Pyaar_Kyun_Kiya.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithM1/Maine_Pyaar_Kyun_Kiya_2005_1080_Hindi_6CH_Romance_Comedy.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Malamaal_Weekly.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithM1/Malamaal_Weekly_2006_720_Hindi_6CH_Comedy.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Masti.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithM1/Masti_2004_1080_Hindi_6CH_Comedy_Thriller.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Mere_Baap_Pehle_Aap.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithM1/Mere_Baap_Pehle_Aap_2008_720%20_Hindi_6CH_Comedy_Romance.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Mission_Majnu.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithM1/Mission_Majnu_2023_1080_Hindi_6CH_Action_Drama.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Mitron.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithM1/Mitron_2018_1080_Hindi_6CH_Comedy.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Mujhse_Shaadi_Karogi.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithM1/Mujhse_Shaadi_Karogi_2004_1080_Hindi_2CH_Comedy_Romance.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/OMG_Oh_My_God.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithO1/OMG_Oh_My_God_2012_1080_Hindi_6CH_Drama_Comedy.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Om_Shanti_Om.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithO1/Om_Shanti_Om_2007_1080_Hindi_6CH_Romance_Musical.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Omg_2.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithO1/Omg_2_2023_1080_Hindi_6CH_Drama_Comedy.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/One_Two_Three.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithO1/One_Two_Three_2008_1080_Hindi_2CH_Comedy.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Tanhaji_The_Unsung_Warrior.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithT1/Tanhaji_The_Unsung_Warrior_2020_1080_Hindi_6CH_Action_Biography_Drama.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/The_Attacks_of_26_11.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithT1/The_Attacks_of_26_11_2013_1080_Hindi_6CH_Crime_Drama.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Toilet_A_Love_Story.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithT1/Toilet_A_Love_Story_2017_1080_Hindi_6CH_Comedy_Drama.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Uri_The_Surgical_Strike.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithU1/Uri_The_Surgical_Strike_2019_1080_Hindi_6CH_War_History.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Wanted.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithW1/Wanted_2009_1080_Hindi_6CH_Action_Thriller.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Welcome_Back.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithW1/Welcome_Back_2015_1080_Hindi_6CH_Comedy_Action.mp4"
         }
     ]
 }
