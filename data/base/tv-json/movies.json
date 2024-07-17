@@ -159,6 +159,300 @@
             "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Billu.jpg",
             "imageFiller": "height-center",
             "action": "video:https://archive.org/download/HindooPicturesStartWithB1/Billu_2009_1080_Hindi_6CH_Musical_Drama.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Sanju.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithS1/Sanju_2018_1080_Hindi_6CH_Drama_Comedy.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Shaadi_Mein_Zaroor_Aana.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithS1/Shaadi_Mein_Zaroor_Aana_2018_1080_Hindi_2CH_Romance.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Sholay.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithS1/Sholay_1975_1080_Hindi_2CH_Action_Adventure.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Shootout_at_Lokhandwala.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithS1/Shootout_at_Lokhandwala_2007_1080_Hindi_6CH_Crime_History.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Shootout_at_Wadala.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithS1/Shootout_at_Wadala_2013_1080_Hindi_6CH_Crime_History.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Son_of_Sardaar.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithS1/Son_of_Sardaar_2012_1080_Hindi_6CH_Comedy_Action.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Special_26.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithS1/Special_26_2013_1080__Hindi_6CH_Thriller_Drama.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Sui_Dhaaga_Made_In_India.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithS1/Sui_Dhaaga_Made_In_India_2018_1080_Hindi_6CH_Drama.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Sultan.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithS1/Sultan_2016_1080_Hindi_6CH_Sport_Drama.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Super_30.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithS1/Super_30_2019_1080_Hindi_6CH_Drama_Biography.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/A_Wednesday.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithA1/A_Wednesday_2008_1080_Hindi_6CH_Drama_Crime.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Aan_Men_At_Work.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithA1/Aan_Men_At_Work_2004_1080_Hindi_2CH_Action_Thriller.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Agneepath_2012.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithA1/Agneepath_2012_1080_Hindi_6CH_Action_Crime.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Apna_Sapna_Money_Money.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithA1/Apna_Sapna_Money_Money_2006_1080_Hindi_2CH_Comedy.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Chak_de_India.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithC1/Chak_de_India_2007_1080_Hindi_6CH_Sport_Drama.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Chennai_Express.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithC1/Chennai_Express_2013_1080_Hindi_6CH_Action_Comedy.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Chup_Chup_Ke.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithC1/Chup_Chup_Ke_2006_1080_Hindi_6CH_Comedy_Romance.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Coolie_No_1.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithC1/Coolie_No_1_1995_1080_Hindi_6CH_Comedy.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Dabangg_2010.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithD1/Dabangg_2010_1080_Hindi_6CH_Action_Romance.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Dabangg_2_2012.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithD1/Dabangg_2_2012_1080_Hindi_6CH_Action_Romance.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Dabangg_3_2019.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithD1/Dabangg_3_2019_1080_Hindi_6CH_Action_Romance.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Dangal.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithD1/Dangal_2016_1080_Hindi_6CH_Drama_Biography.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Dhamaal.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithD1/Dhamaal_2007_1080_Hindi_6CH_Comedy.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Dhol.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithD1/Dhol_2007_1080_Hindi_6CH_Comedy.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/R_Rajkumar.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithR1/R_Rajkumar_2013_1080_Hindi_6CH_Romance_Action.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Raees.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithR1/Raees_2017_%201080_Hindi_6CH_Action_Crime.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/RamLeela.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithR1/RamLeela_2013_1080_6CH_Hindi_Romance_Action.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Ramayana_The_Legend_Of_Prince_Rama.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithR1/Ramayana_The_Legend_Of_Prince_Rama_1992_480_Hindi_6CH_Adventure_Animation.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Rowdy_Rathore.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithR1/Rowdy_Rathore_2012_1080_Hindi_6CH_Action_Comedy.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Gabbar_is_Back.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithG1/Gabbar_is_Back_2015_1080_Hindi_6CH_Action_Drama.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Gadar_Ek_Prem_Katha.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithG1/Gadar_Ek_Prem_Katha_2001_1080_Hindi_2CH_Romance_Action.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Gangaajal.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithG1/Gangaajal_2003_1080_Hindi_6CH_Action_Thriller.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Garv_Pride_And_Honour.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithG1/Garv_Pride_And_Honour_2004_1080_Hindi_2CH_Action_Thriller.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/pk.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithP1/PK_2014_1080_Hindi_6CH_Drama_Comedy.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Padmaavat.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithP1/Padmaavat_2018_1080_Hindi_6CH_Action_History.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Holiday.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithH1/Holiday_2014_1080_Hindi_6CH_Action_Thriller.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Hulchul.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithH1/Hulchul_2004_720_Hindi_6CH_Comedy_Drama.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Hum_Aapke_Hain_Koun.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithH1/Hum_Aapke_Hain_Koun_1994_1080_Hindi_6CH_Romance_Family.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Hum_Saath_Saath_Hain.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithH1/Hum_Saath_Saath_Hain_1999_Hindi_2CH_Drama_Family.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Hungama_2003.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithH1/Hungama_2003_1080_Hindi_2CH_Comedy.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Jab_We_Met.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithJ1/Jab_We_Met_2007_720_Hindi_6CH_Romance_Comedy.mp4"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Jolly_LLB_2.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://archive.org/download/HindooPicturesStartWithJ1/Jolly_LLB_2_2017_1080_6CH_Hindi_Comedy_Mystry.mp4"
         }
     ]
 }
