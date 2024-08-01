@@ -10,7 +10,7 @@
             "type": "teaser",
             "color": "msx-white",
             "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/And_Pictures.png",
-            "imageFiller": "height-center",
+            "imageFiller": "width-center",
             "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5038/67747551/1964.m3u8"
         }
     ]
