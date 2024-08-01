@@ -12,6 +12,27 @@
             "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/And_Pictures.png",
             "imageFiller": "width-center",
             "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5038/67747551/1964.m3u8"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/And_TV.png",
+            "imageFiller": "width-center",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=:http://vo01.mohdtv.com:8880/live/voby5038/67747551/1962.m3u8"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/And_Prive_HD.png",
+            "imageFiller": "width-center",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=:http://vo01.mohdtv.com:8880/live/voby5038/67747551/1963.m3u8"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/9X_JALWA.png",
+            "imageFiller": "width-center",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=:http://vo01.mohdtv.com:8880/live/voby5038/67747551/1958.m3u8"
         }
     ]
 }
