@@ -54,6 +54,125 @@
             "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/AAJ_TAK.png",
             "imageFiller": "width-center",
             "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5038/67747551/1953.m3u8"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/ABP_NEWS.png",
+            "imageFiller": "width-center",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5038/67747551/1949.m3u8"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/B4U_MUSIC.png",
+            "imageFiller": "width-center",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5038/67747551/1944.m3u8"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/B4U_KADAK.png",
+            "imageFiller": "width-center",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5038/67747551/1943.m3u8"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/B4U_MOVIES.png",
+            "imageFiller": "width-center",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5038/67747551/1942.m3u8"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/COLORS.png",
+            "imageFiller": "width-center",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5038/67747551/1931.m3u8"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/COLORS_CINEPLEX.png",
+            "imageFiller": "width-center",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5038/67747551/1929.m3u8"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/COLORS_MARATHI.png",
+            "imageFiller": "width-center",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5038/67747551/1925.m3u8"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/NDTV_24X7.png",
+            "imageFiller": "width-center",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5038/67747551/55358.m3u8"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/Nick_Junior.png",
+            "imageFiller": "width-center",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5038/67747551/55345.m3u8"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/SONY.png",
+            "imageFiller": "width-center",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5038/67747551/55296.m3u8"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/Sony_SAB.png",
+            "imageFiller": "width-center",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5038/67747551/55290.m3u8"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/SONY_SAB_UK.png",
+            "imageFiller": "width-center",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5038/67747551/55289.m3u8"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/SONY_TEN_1.png",
+            "imageFiller": "width-center",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5038/67747551/55284.m3u8"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/Sony_Ten_3.png",
+            "imageFiller": "width-center",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5038/67747551/55281.m3u8"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/SONY_TV_ASIA.png",
+            "imageFiller": "width-center",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5038/67747551/55280.m3u8"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/Sony_TV_UK.png",
+            "imageFiller": "width-center",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5038/67747551/55279.m3u8"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/STAR_PLUS.png",
+            "imageFiller": "width-center",
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5038/67747551/55274.m3u8"
         }
     ]
 }
