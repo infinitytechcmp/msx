@@ -40,7 +40,10 @@ function TemplatePlayer() {
     };
     this.play = function() {
         logger.debug("Play");
-        playmu();
+        alert('play'); // This is the existing code.
+
+    // Call the additional function here
+    this.anotherFunction();
     };
     this.pause = function() {
         logger.debug("Pause");
@@ -128,6 +131,9 @@ TVXPluginTools.onReady(function() {
 });
 /******************************************************************************/
 
-this.playmu = function() {
-    alert('play clicked');
+// Define the additional function
+this.anotherFunction = function() {
+    // Your custom logic here
+    alert('Another function called');
+    logger.debug("Another function called");
 };
