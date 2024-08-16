@@ -1077,35 +1077,35 @@
                                 "alignment": "center",
                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/shrimad_ramayan/150.jpg",
                                 "imageFiller": "height-center",
-                                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=xyz150"
+                                "action": "video:https://ottdata.primepixelmedia.in/shrimad-ramayan/Shrimad_Ramayan_S01_E150_Antim_Aahuti_720p_SonyLIV_WEB_DL_Hindi.mp4"
                               },
                               {
                                 "title": "Episode 151",
                                 "alignment": "center",
                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/shrimad_ramayan/151.jpg",
                                 "imageFiller": "height-center",
-                                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=xyz151"
+                                "action": "video:https://ottdata.primepixelmedia.in/shrimad-ramayan/Shrimad_Ramayan_S01_E151_Vriksh_Ki_Chaaya_720p_SonyLIV_WEB_DL_Hindi.mp4"
                               },
                               {
                                 "title": "Episode 152",
                                 "alignment": "center",
                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/shrimad_ramayan/152.jpg",
                                 "imageFiller": "height-center",
-                                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=xyz152"
+                                "action": "video:https://ottdata.primepixelmedia.in/shrimad-ramayan/Shrimad_Ramayan_S01_E152_Mata_Sita_Ke_Apmaan_Ka_Badla_720p_SonyLIV.mp4"
                               },
                               {
                                 "title": "Episode 153",
                                 "alignment": "center",
                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/shrimad_ramayan/153.jpg",
                                 "imageFiller": "height-center",
-                                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=xyz153"
+                                "action": "video:https://ottdata.primepixelmedia.in/shrimad-ramayan/Shrimad_Ramayan_S01_E153_Neelkamal_720p_SonyLIV_WEB_DL_Hindi_AAC2.mp4"
                               },
                               {
                                 "title": "Episode 154",
                                 "alignment": "center",
                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/shrimad_ramayan/154.jpg",
                                 "imageFiller": "height-center",
-                                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=xyz154"
+                                "action": "video:https://ottdata.primepixelmedia.in/shrimad-ramayan/Shrimad_Ramayan_S01_E154_Shri_Ram_Ki_Antim_Aahuti_720p_SonyLIV_WEB.mp4"
                               },
                               {
                                 "title": "Episode 155",
