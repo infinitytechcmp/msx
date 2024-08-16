@@ -119,6 +119,13 @@ function TemplatePlayer() {
         logger.error(message + ": " + error);
         console.error(error);
     };
+
+    // Define the additional function
+this.anotherFunction = function() {
+    // Your custom logic here
+    alert('Another function called');
+    logger.debug("Another function called");
+};
 }
 /******************************************************************************/
 
@@ -131,9 +138,3 @@ TVXPluginTools.onReady(function() {
 });
 /******************************************************************************/
 
-// Define the additional function
-this.anotherFunction = function() {
-    // Your custom logic here
-    alert('Another function called');
-    logger.debug("Another function called");
-};
