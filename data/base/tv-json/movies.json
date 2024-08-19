@@ -16,6 +16,13 @@
         {
             "type": "teaser",
             "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/rakshabandhan.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://ottdata.primepixelmedia.in/Raksha-Bandhan-2022-WebRip-720p.mkv"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
             "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Bajirao-Mastani.jpg",
             "imageFiller": "height-center",
             "action": "video:https://archive.org/download/bolleyBall_bollywood/Bajirao%20Mastani%20%282015%29%20720p%20Hindi%20HDRip%20CineMax%20.mp4"
