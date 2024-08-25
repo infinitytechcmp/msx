@@ -1204,6 +1204,34 @@
                                  "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/shrimad_ramayan/168.jpg",
                                  "imageFiller": "height-center",
                                  "action": "video:https://ottdata.primepixelmedia.in/shrimad-ramayan/Shrimad_Ramayan_S01_E168_Mata_Sita_Ki_Agni_Pariksha_720p_SonyLIV.mp4"
+                               },
+                               {
+                                 "title": "Episode 169",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/shrimad_ramayan/169.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://ottdata.primepixelmedia.in/shrimad-ramayan/Ep_169.mp4"
+                               },
+                               {
+                                 "title": "Episode 170",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/shrimad_ramayan/170.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://ottdata.primepixelmedia.in/shrimad-ramayan/Shrimad_Ramayan_S01_E170_Bhagwan_Ki_Pratiksha_720p_SonyLIV_WEB_DL.mp4"
+                               },
+                               {
+                                 "title": "Episode 171",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/shrimad_ramayan/171.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://ottdata.primepixelmedia.in/shrimad-ramayan/Episode_171.mp4"
+                               },
+                               {
+                                 "title": "Episode 172",
+                                 "alignment": "center",
+                                 "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/shrimad_ramayan/172.jpg",
+                                 "imageFiller": "height-center",
+                                 "action": "video:https://ottdata.primepixelmedia.in/shrimad-ramayan/episode_172_Sukhi_Aur_Surakshit_Ayodhya.mp4"
                                }
                            ]
                         }
