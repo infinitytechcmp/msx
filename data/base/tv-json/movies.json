@@ -9,6 +9,13 @@
         {
             "type": "teaser",
             "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/sambhaji.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://tvapp.primepixelmedia.in/DharmarakshakMahaveerChhatrapatiSambhaji.ts"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
             "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/83.jpg",
             "imageFiller": "height-center",
             "action": "video:https://archive.org/download/bolleyBall_bollywood/83.2021.1080p.Hindi.WEB-DL.5.1.ESub.x264-Betamovies.xyz.mkv-h264_720p.mp4"
@@ -46,7 +53,7 @@
             "color": "msx-white",
             "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Bhool-Bhulaiyaa-2.jpg",
             "imageFiller": "height-center",
-            "action": "video:https://archive.org/download/bolleyBall_bollywood/Bhool.Bhulaiyaa-2.2022.1080p.Hindi.WEB-DL.5.1.ESub.x264-HDhub4u.Tv.mp4"
+            "action": "video:http://tvmate.icu:8080/movie/ryan@synnott/615@516/205399.mkv"
         },
         {
             "type": "teaser",
