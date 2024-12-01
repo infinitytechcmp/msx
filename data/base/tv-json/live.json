@@ -214,7 +214,7 @@
             "color": "msx-white",
             "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/SONY_MAX.png",
             "imageFiller": "width-center",
-            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://vo01.mohdtv.com:8880/live/voby5038/67747551/55268.m3u8"
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://fortv.cc:8080/live/65467632/06982344/125814.m3u8"
         },
         {
             "type": "teaser",
