@@ -11,7 +11,7 @@
             "color": "msx-white",
             "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/ZEE_TV.png",
             "imageFiller": "width-center",
-            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://megaott.live:8080/live/yHCqsMEwhXr5/jbm9PRVDH96L/66316.m3u8"
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=http://fortv.cc:8080/live/65467632/06982344/125814.m3u8"
         }
     ]
 }
