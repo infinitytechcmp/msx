@@ -1,6 +1,6 @@
 {
     "type": "list",
-    "headline": "Live Tv 2",
+    "headline": "Live Tv",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3"

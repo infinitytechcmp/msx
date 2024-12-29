@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MP4 & MKV Video Player</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #121212;
+        }
+        video {
+            width: 100%;
+            max-width: 100%;
+            border: 0;
+            border-radius: 0;
+        }
+    </style>
+</head>
+<body>
+    <video id="videoPlayer" controls autoplay></video>
+
+    <script>
+        $(document).ready(function () {
+            const video = $('#videoPlayer')[0];
+
+            // Get URL parameter
+            const urlParams = new URLSearchParams(window.location.search);
+            const videoUrl = urlParams.get('url');
+
+            if (videoUrl) {
+                const fileExtension = videoUrl.split('.').pop().toLowerCase();
+
+                if (['mp4', 'mkv'].includes(fileExtension)) {
+                    video.src = videoUrl;
+                    video.play();
+                } else {
+                    alert('Unsupported video format. Please use an MP4 or MKV file.');
+                }
+            } else {
+                alert('No video URL provided. Use ?url=YOUR_VIDEO_LINK');
+            }
+        });
+    </script>
+</body>
+</html>
