@@ -1,41 +1,56 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <title>HLS Video Plugin</title>
-        <meta charset="UTF-8" />
-        <meta name="author" content="Benjamin Zachey" />
-        <meta name="contact" content="admin@benzac.de" />
-        <meta name="copyright" content="Benjamin Zachey" />
-        <link type="text/css" rel="stylesheet" href="http://msx.benzac.de/plugins/css/common.css?v=0.0.2" />
-        <script type="text/javascript" src="http://msx.benzac.de/js/tvx-plugin.min.js?v=0.0.16"></script>
-        <script type="text/javascript" src="http://msx.benzac.de/plugins/js/lib/hls.js?v=0.0.2"></script>
-        <script type="text/javascript" src="http://msx.benzac.de/plugins/js/hls.js?v=0.0.2"></script>
-    </head>
-    <body>
-        <h1>HLS Video Player</h1>
-        <video id="player" controls autoplay playsinline style="width: 80%; max-width: 800px;"></video>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>M3U8 Video Player</title>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #121212;
+        }
+        video {
+            width: 80%;
+            max-width: 720px;
+            border: 2px solid #fff;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <video id="videoPlayer" controls autoplay></video>
 
-        <script>
-            document.addEventListener('DOMContentLoaded', function () {
-                const video = document.getElementById('player');
-                const videoSrc = 'https://starshare.live:443/live/04494/04494/161.m3u8'; // Replace with your M3U8 URL
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const video = document.getElementById('videoPlayer');
 
+            // Get the URL parameter
+            const urlParams = new URLSearchParams(window.location.search);
+            const streamUrl = urlParams.get('url');
+
+            if (streamUrl) {
                 if (Hls.isSupported()) {
                     const hls = new Hls();
-                    hls.loadSource(videoSrc);
+                    hls.loadSource(streamUrl);
                     hls.attachMedia(video);
                     hls.on(Hls.Events.MANIFEST_PARSED, function () {
                         video.play();
                     });
                 } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-                    video.src = videoSrc;
-                    video.addEventListener('loadedmetadata', function () {
-                        video.play();
-                    });
+                    video.src = streamUrl;
+                    video.play();
                 } else {
-                    console.error('HLS not supported in this browser.');
+                    alert('Your browser does not support HLS playback.');
                 }
-            });
-        </script>
-    </body>
+            } else {
+                alert('No M3U8 URL provided in the query parameter. Use ?url=YOUR_M3U8_LINK');
+            }
+        });
+    </script>
+</body>
 </html>
