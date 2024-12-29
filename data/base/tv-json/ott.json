@@ -1346,7 +1346,42 @@
                                  "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/sonyliv/gullak/episode.jpg",
                                  "imageFiller": "height-center",
                                  "action": "video:https://archive.org/download/Dbdjdbbd/Gullak%20S3%20Ep5.mp4"
-                              }
+                              },
+                              {
+                                 "title": "S04 E01",
+                                 "alignment":"center",
+                                 "image": "https://origin-staticv2.sonyliv.com/videoasset_images/gullak4_3_landscape_thumb.jpg",
+                                 "imageFiller":"height-center",
+                                 "action": "video:https://starshare.live:443/series/04494/04494/346497.mp4"
+                             },
+                             {
+                                 "title": "S04 E02",
+                                 "alignment":"center",
+                                 "image": "https://origin-staticv2.sonyliv.com/videoasset_images/gullak4_3_landscape_thumb.jpg",
+                                 "imageFiller":"height-center",
+                                 "action": "video:https://starshare.live:443/series/04494/04494/346498.mp4"
+                             },
+                             {
+                                 "title": "S04 E03",
+                                 "alignment":"center",
+                                 "image": "https://origin-staticv2.sonyliv.com/videoasset_images/gullak4_3_landscape_thumb.jpg",
+                                 "imageFiller":"height-center",
+                                 "action": "video:https://starshare.live:443/series/04494/04494/346499.mp4"
+                             },
+                             {
+                                 "title": "S04 E04",
+                                 "alignment":"center",
+                                 "image": "https://origin-staticv2.sonyliv.com/videoasset_images/gullak4_3_landscape_thumb.jpg",
+                                 "imageFiller":"height-center",
+                                 "action": "video:https://starshare.live:443/series/04494/04494/346500.mp4"
+                             },
+                             {
+                                 "title": "S04 E05",
+                                 "alignment":"center",
+                                 "image": "https://origin-staticv2.sonyliv.com/videoasset_images/gullak4_3_landscape_thumb.jpg",
+                                 "imageFiller":"height-center",
+                                 "action": "video:https://starshare.live:443/series/04494/04494/346501.mp4"
+                             }
                            ]
                         }
                      },
