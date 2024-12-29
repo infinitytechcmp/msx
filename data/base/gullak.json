@@ -8,6 +8,16 @@
     },
     "items": [
         {
+            "titleFooter": "Gullak S01",
+            "tag":"01",
+            "alignment":"center",
+            "tagColor":"msx-red",
+            "type": "teaser", 
+            "image": "https://origin-staticv2.sonyliv.com/videoasset_images/gullak4_3_landscape_thumb.jpg",
+            "imageFiller":"height-center",
+            "action": "video:https://starshare.live:443/series/04494/04494/159200.mkv"
+        },
+        {
             "titleFooter": "Gullak S02",
             "tag":"01",
             "alignment":"center",
@@ -15,7 +25,7 @@
             "type": "teaser", 
             "image": "https://origin-staticv2.sonyliv.com/videoasset_images/gullak4_3_landscape_thumb.jpg",
             "imageFiller":"height-center",
-            "action": "video:http://starshare.live:8080/series/SYHa6HRGqf/xefX63i3yV/23230.mkv"
+            "action": "video:https://starshare.live:443/series/04494/04494/23230.mkv"
         },
         {
             "titleFooter": "Gullak S02",
@@ -35,7 +45,7 @@
             "type": "teaser", 
             "image": "https://origin-staticv2.sonyliv.com/videoasset_images/gullak4_3_landscape_thumb.jpg",
             "imageFiller":"height-center",
-            "action": "video:http://starshare.live:8080/series/SYHa6HRGqf/xefX63i3yV/23232.mkv"
+            "action": "video:https://starshare.live:443/series/04494/04494/23232.mkv"
         },
         {
             "titleFooter": "Gullak S02",
@@ -45,7 +55,7 @@
             "type": "teaser", 
             "image": "https://origin-staticv2.sonyliv.com/videoasset_images/gullak4_3_landscape_thumb.jpg",
             "imageFiller":"height-center",
-            "action": "video:http://starshare.live:8080/series/SYHa6HRGqf/xefX63i3yV/23233.mkv"
+            "action": "video:https://starshare.live:443/series/04494/04494/23233.mkv"
         },
         {
             "titleFooter": "Gullak S02",
@@ -55,7 +65,7 @@
             "type": "teaser", 
             "image": "https://origin-staticv2.sonyliv.com/videoasset_images/gullak4_3_landscape_thumb.jpg",
             "imageFiller":"height-center",
-            "action": "video:http://starshare.live:8080/series/SYHa6HRGqf/xefX63i3yV/23234.mkv"
+            "action": "video:https://starshare.live:443/series/04494/04494/23234.mkv"
         },
         {
             "titleFooter": "Gullak S03",
@@ -65,7 +75,7 @@
             "type": "teaser", 
             "image": "https://origin-staticv2.sonyliv.com/videoasset_images/gullak4_3_landscape_thumb.jpg",
             "imageFiller":"height-center",
-            "action": "video:http://starshare.live:8080/series/SYHa6HRGqf/xefX63i3yV/80677.mkv"
+            "action": "video:https://starshare.live:443/series/04494/04494/80677.mkv"
         },
         {
             "titleFooter": "Gullak S03",
@@ -75,7 +85,7 @@
             "type": "teaser", 
             "image": "https://origin-staticv2.sonyliv.com/videoasset_images/gullak4_3_landscape_thumb.jpg",
             "imageFiller":"height-center",
-            "action": "video:http://starshare.live:8080/series/SYHa6HRGqf/xefX63i3yV/80678.mkv"
+            "action": "video:https://starshare.live:443/series/04494/04494/80678.mkv"
         },
         {
             "titleFooter": "Gullak S03",
@@ -85,7 +95,7 @@
             "type": "teaser", 
             "image": "https://origin-staticv2.sonyliv.com/videoasset_images/gullak4_3_landscape_thumb.jpg",
             "imageFiller":"height-center",
-            "action": "video:http://starshare.live:8080/series/SYHa6HRGqf/xefX63i3yV/80679.mkv"
+            "action": "video:https://starshare.live:443/series/04494/04494/80679.mkv"
         },
         {
             "titleFooter": "Gullak S03",
@@ -95,7 +105,7 @@
             "type": "teaser", 
             "image": "https://origin-staticv2.sonyliv.com/videoasset_images/gullak4_3_landscape_thumb.jpg",
             "imageFiller":"height-center",
-            "action": "video:http://starshare.live:8080/series/SYHa6HRGqf/xefX63i3yV/80680.mkv"
+            "action": "video:https://starshare.live:443/series/04494/04494/80680.mkv"
         },
         {
             "titleFooter": "Gullak S03",
@@ -105,7 +115,7 @@
             "type": "teaser", 
             "image": "https://origin-staticv2.sonyliv.com/videoasset_images/gullak4_3_landscape_thumb.jpg",
             "imageFiller":"height-center",
-            "action": "video:http://starshare.live:8080/series/SYHa6HRGqf/xefX63i3yV/80681.mkv"
+            "action": "video:https://starshare.live:443/series/04494/04494/80681.mkv"
         },
         {
             "titleFooter": "Gullak S04",
@@ -115,7 +125,7 @@
             "type": "teaser", 
             "image": "https://origin-staticv2.sonyliv.com/videoasset_images/gullak4_3_landscape_thumb.jpg",
             "imageFiller":"height-center",
-            "action": "video:http://starshare.live:8080/series/SYHa6HRGqf/xefX63i3yV/346497.mp4"
+            "action": "video:https://starshare.live:443/series/04494/04494/346497.mp4"
         },
         {
             "titleFooter": "Gullak S04",
@@ -125,7 +135,7 @@
             "type": "teaser", 
             "image": "https://origin-staticv2.sonyliv.com/videoasset_images/gullak4_3_landscape_thumb.jpg",
             "imageFiller":"height-center",
-            "action": "video:http://starshare.live:8080/series/SYHa6HRGqf/xefX63i3yV/346498.mp4"
+            "action": "video:https://starshare.live:443/series/04494/04494/346498.mp4"
         },
         {
             "titleFooter": "Gullak S04",
@@ -135,7 +145,7 @@
             "type": "teaser", 
             "image": "https://origin-staticv2.sonyliv.com/videoasset_images/gullak4_3_landscape_thumb.jpg",
             "imageFiller":"height-center",
-            "action": "video:http://starshare.live:8080/series/SYHa6HRGqf/xefX63i3yV/346499.mp4"
+            "action": "video:https://starshare.live:443/series/04494/04494/346499.mp4"
         },
         {
             "titleFooter": "Gullak S04",
@@ -145,7 +155,7 @@
             "type": "teaser", 
             "image": "https://origin-staticv2.sonyliv.com/videoasset_images/gullak4_3_landscape_thumb.jpg",
             "imageFiller":"height-center",
-            "action": "video:http://starshare.live:8080/series/SYHa6HRGqf/xefX63i3yV/346500.mp4"
+            "action": "video:https://starshare.live:443/series/04494/04494/346500.mp4"
         },
         {
             "titleFooter": "Gullak S04",
@@ -155,7 +165,7 @@
             "type": "teaser", 
             "image": "https://origin-staticv2.sonyliv.com/videoasset_images/gullak4_3_landscape_thumb.jpg",
             "imageFiller":"height-center",
-            "action": "video:http://starshare.live:8080/series/SYHa6HRGqf/xefX63i3yV/346501.mp4"
+            "action": "video:https://starshare.live:443/series/04494/04494/346501.mp4"
         }
     ]
 }
