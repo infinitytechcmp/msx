@@ -11,7 +11,7 @@
             "color": "msx-white",
             "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/ZEE_TV.png",
             "imageFiller": "width-center",
-            "action": "video:plugin:https://primepixelmedia.in/player.php?url=https://starshare.live:443/live/04494/04494/161.m3u8"
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=PRy2CFVlPOA"
         }
     ]
 }
