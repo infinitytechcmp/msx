@@ -29,17 +29,26 @@
         document.addEventListener('DOMContentLoaded', function () {
             const video = document.getElementById('videoPlayer');
 
-            // Get the URL parameter
+            // Get the HLS URL from the query parameter
             const urlParams = new URLSearchParams(window.location.search);
             const streamUrl = urlParams.get('url');
 
             if (streamUrl) {
                 if (Hls.isSupported()) {
-                    const hls = new Hls();
+                    const hls = new Hls({
+                        maxMaxBufferLength: 600, // Adjust for better 4K buffering
+                        capLevelToPlayerSize: true, // Match the video resolution to player size
+                        startLevel: -1, // Automatically select the best starting quality
+                    });
+
                     hls.loadSource(streamUrl);
                     hls.attachMedia(video);
                     hls.on(Hls.Events.MANIFEST_PARSED, function () {
                         video.play();
+                    });
+
+                    hls.on(Hls.Events.ERROR, function (event, data) {
+                        console.error('HLS.js Error:', data.type, data.details);
                     });
                 } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
                     video.src = streamUrl;
@@ -48,7 +57,7 @@
                     alert('Your browser does not support HLS playback.');
                 }
             } else {
-                alert('No M3U8 URL provided in the query parameter. Use ?url=YOUR_M3U8_LINK');
+                alert('No HLS URL provided. Use ?url=YOUR_4K_HLS_STREAM_LINK');
             }
         });
     </script>
