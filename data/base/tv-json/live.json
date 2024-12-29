@@ -18,7 +18,7 @@
             "color": "msx-white",
             "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/SONY.png",
             "imageFiller": "width-center",
-            "action": "video:plugin:https://infinitytechcmp.github.io/msx/hls.html?url=https://starshare.live:443/live/04494/04494/224.m3u8"
+            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://starshare.live:443/live/04494/04494/224.m3u8"
         }
     ]
 }
