@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>M3U8 Video Player</title>
+    <link type="text/css" rel="stylesheet" href="http://msx.benzac.de/plugins/css/common.css?v=0.0.3" />
     <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
     <style>
         body {
@@ -25,9 +26,15 @@
 <body>
     <video id="videoPlayer" controls autoplay></video>
 
+    <script type="text/javascript" src="http://msx.benzac.de/js/jquery.min.js?v=0.0.3"></script> 
+    <script type="text/javascript" src="http://msx.benzac.de/js/tvx-plugin.min.js?v=0.0.3"></script>
+    <script type="text/javascript" src="http://msx.benzac.de/plugins/js/content-controller.js?v=0.0.3"></script>
+    <script type="text/javascript" src="http://msx.benzac.de/plugins/js/template.js?v=0.0.3"></script>
+    
     <script>
+        var video;
         document.addEventListener('DOMContentLoaded', function () {
-            const video = document.getElementById('videoPlayer');
+            video = document.getElementById('videoPlayer');
 
             // Get the URL parameter
             const urlParams = new URLSearchParams(window.location.search);
@@ -52,5 +59,76 @@
             }
         });
     </script>
+
+<script type="text/javascript">
+    function MyPlayer() {
+        this.init = function() {
+            //Init player
+            console.log('init');
+        };
+        this.ready = function() {
+            //Player is ready
+            TVXVideoPlugin.startPlayback();//This will call the play function and will start the update process
+        };
+        this.play = function() {
+            //Play
+            video.play();
+        };
+        this.pause = function() {
+            //Pause
+            video.pause();
+        };
+        this.stop = function() {
+            //Stop
+        };
+        this.getDuration = function() {
+            //Get duration in seconds
+            return 60;
+        };
+        this.getPosition = function() {
+            //Get position in seconds
+            return 0;
+        };
+        this.setPosition = function(position) {
+            //Set position in seconds
+            if (position == 60) {
+                TVXVideoPlugin.stopPlayback();//Generally, this will unload the iframe
+            }
+        };
+        this.setVolume = function(volume) {
+            //Set volume (0 .. 100)
+        };
+        this.getVolume = function() {
+            //Get volume (0 .. 100)
+            return 100;
+        };
+        this.setMuted = function(muted) {
+            //Set muted
+        };
+        this.isMuted = function() {
+            //Get muted
+            return false;
+        };
+        this.getSpeed = function() {
+            //Get speed (0.125 .. 8.0)
+            return 1;
+        };
+        this.setSpeed = function(speed) {
+            //Set speed (0.125 .. 8.0)
+        };
+        this.getUpdateData = function() {
+            //Get update data (this will be called each second)
+            return {
+                position: this.getPosition(),
+                duration: this.getDuration(),
+                speed: this.getSpeed()
+            };
+        };
+    }
+    TVXPluginTools.onReady(function() {
+        TVXVideoPlugin.setupPlayer(new MyPlayer());
+        TVXVideoPlugin.init();
+    });
+</script>
 </body>
 </html>
