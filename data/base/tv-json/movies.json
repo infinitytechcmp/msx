@@ -9,6 +9,13 @@
         {
             "type": "teaser",
             "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Dangal.jpg",
+            "imageFiller": "height-center",
+            "action": "video:https://beats9studio.fun/Dangal.mkv"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
             "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/sambhaji.jpg",
             "imageFiller": "height-center",
             "action": "video:https://tvapp.primepixelmedia.in/SambhajiMaharaj.mkv"
