@@ -11,7 +11,7 @@
             "color": "msx-white",
             "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Dangal.jpg",
             "imageFiller": "height-center",
-            "action": "video:https://beats9studio.fun/Dangal.mkv"
+            "action": "video:plugin:https://player.vidify.top/embed/movie/1291608"
         },
         {
             "type": "teaser",
