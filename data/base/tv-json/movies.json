@@ -9,23 +9,16 @@
         {
             "type": "teaser",
             "color": "msx-white",
-            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Dangal.jpg",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Dhurandhar-the-revenge.jpg",
             "imageFiller": "height-center",
-            "action": "video:plugin:https://player.vidify.top/embed/movie/1291608"
+            "action": "video:https://archive.org/download/dhurandhar-2-the-revenge-2026-bollywood-hindi-movie-hqcam-1080p-hevc/Dhurandhar%202%20-The%20Revenge%20%282026%29%20Bollywood%20Hindi%20Movie%20HQCam%201080p%20hevc.mkv"
         },
         {
             "type": "teaser",
             "color": "msx-white",
-            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/sambhaji.jpg",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Laalo.jpg",
             "imageFiller": "height-center",
-            "action": "video:https://tvapp.primepixelmedia.in/SambhajiMaharaj.mkv"
-        },
-        {
-            "type": "teaser",
-            "color": "msx-white",
-            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Atithi_Tum_Kab_Jaoge.jpg",
-            "imageFiller": "height-center",
-            "action": "video:https://tvapp.primepixelmedia.in/AtithiTumKabJaoge.mp4"
+            "action": "link:https://kwita408ant.com/play/tt37956153"
         },
         {
             "type": "teaser",
