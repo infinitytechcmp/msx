@@ -18,7 +18,14 @@
             "color": "msx-white",
             "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Laalo.jpg",
             "imageFiller": "height-center",
-            "action": "link:https://kwita408ant.com/play/tt37956153"
+            "action": "link:https://vidcore.net/movie/1567645"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/border2.jpg",
+            "imageFiller": "height-center",
+            "action": "link:https://vidcore.net/movie/1213898"
         },
         {
             "type": "teaser",
