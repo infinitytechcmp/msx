@@ -19,6 +19,14 @@
             "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/SONY.png",
             "imageFiller": "width-center",
             "action": "link:https://cdn-live.tv/api/v1/channels/player/?name=SONY%20TEN%201&code=in&user=cdnlivetv&plan=free"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/star-hindi.png",
+            "imageFiller": "width-center",
+            "action": "link:https://infinitytechcmp.github.io/msx/iframe.html?url=https://dlhd.link/stream/stream-268.php"
         }
     ]
 }
+
