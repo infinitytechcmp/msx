@@ -9,23 +9,9 @@
         {
             "type": "teaser",
             "color": "msx-white",
-            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/ZEE_TV.png",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/rcbvssrh.jpg",
             "imageFiller": "width-center",
-            "action": "video:plugin:https://infinitytechcmp.github.io/msx/hls.html?url=https://starshare.live:443/live/04494/04494/161.m3u8"
-        },
-        {
-            "type": "teaser",
-            "color": "msx-white",
-            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/SONY.png",
-            "imageFiller": "width-center",
-            "action": "link:https://cdn-live.tv/api/v1/channels/player/?name=SONY%20TEN%201&code=in&user=cdnlivetv&plan=free"
-        },
-        {
-            "type": "teaser",
-            "color": "msx-white",
-            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/star-hindi.png",
-            "imageFiller": "width-center",
-            "action": "link:https://infinitytechcmp.github.io/msx/iframe.html?url=https://dlhd.link/stream/stream-268.php"
+            "action": "link:https://sportify-beta.pages.dev/match?id=2601"
         }
     ]
 }
