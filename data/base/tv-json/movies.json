@@ -11,7 +11,14 @@
             "color": "msx-white",
             "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Dhurandhar-the-revenge.jpg",
             "imageFiller": "height-center",
-            "action": "video:https://archive.org/download/dhurandhar-2-the-revenge-2026-bollywood-hindi-movie-hqcam-1080p-hevc/Dhurandhar%202%20-The%20Revenge%20%282026%29%20Bollywood%20Hindi%20Movie%20HQCam%201080p%20hevc.mkv"
+            "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://lizer123.site/stream/bTN1OC80MS82YzUxODQ0ODNjZjUzY2RjY2I0NzQ0MjBiMjlhOTExYy8xMDgwcC8xMDgwcC5tM3U4P2lkPQ=="
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Dhurandhar.jpg",
+            "imageFiller": "height-center",
+            "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://cdn30092.kerry410bks.com/stream2/i-arch-400/c8db951c884829ebd02faea029232c3b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVZl3TEl0dNRUV3lFVkxmWH10MNpnWt5EVSxmTX1keadUVx4keGhmTqFUP:1774725348:103.189.184.143:da497603ad18c48dd92cda82eae0c05c66c210a3b717ea668e8d9c491a2b84db:=0EVBpHTqVENPNFN49ERRVXTUFle/1080/index.m3u8"
         },
         {
             "type": "teaser",
