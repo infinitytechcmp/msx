@@ -23,6 +23,13 @@
         {
             "type": "teaser",
             "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/ramayana-2025.jpg",
+            "imageFiller": "height-center",
+            "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://stream.adilo.com/adilo-encoding/1HaLsOmI0XxKUjKw/b_DgsGUv/hls/master.m3u8"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
             "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/border2.jpg",
             "imageFiller": "height-center",
             "action": "link:https://vidcore.net/movie/1213898"
