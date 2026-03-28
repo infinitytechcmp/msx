@@ -3,33 +3,16 @@
     "headline": "Sports",
     "template": {
         "type": "separate",
-        "layout": "0,0,3,3",
+        "layout": "0,0,2,3",
         "color": "msx-glass"
     },
     "items": [
         {
-            "title": "ICC T20 WC Ind Vs SA Final Highlights",
-            "playerLabel": "ICC T20 WC Ind Vs SA Final Highlights",
-            "image": "https://infinitytechcmp.github.io/msx/data/thumbs/1.png",
-            "icon": "https://infinitytechcmp.github.io/msx/data/thumbs/1.png",
-            "imageFiller":"height-center",
-            "action": "video:https://arunsmedia.fun/sport-video/videos/InvincibleINDAceSALift2ndTitle.mp4"
-        },
-        {
-            "title": "ICC T20 WC Pull of the World cup",
-            "playerLabel": "ICC T20 WC Pull of the World cup",
-            "image": "https://infinitytechcmp.github.io/msx/data/thumbs/2.png",
-            "icon": "https://infinitytechcmp.github.io/msx/data/thumbs/2.png",
-            "imageFiller":"height-center",
-            "action": "video:https://arunsmedia.fun/sport-video/videos/INDPulloffaMiraclefor2ndTitle.mp4"
-        },
-        {
-            "title": "ICC T20 WC India Lift The World Cup",
-            "playerLabel": "ICC T20 WC India Lift The World Cup",
-            "image": "https://infinitytechcmp.github.io/msx/data/thumbs/3.png",
-            "icon": "https://infinitytechcmp.github.io/msx/data/thumbs/3.png",
-            "imageFiller":"height-center",
-            "action": "video:https://arunsmedia.fun/sport-video/videos/INDLiftICCMen_sT20WCTrophy.mp4"
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/rcbvssrh.jpg",
+            "imageFiller": "height-center",
+            "action": "link:https://sportify-beta.pages.dev/match?id=2601"
         }
     ]
 }

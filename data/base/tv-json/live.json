@@ -6,13 +6,7 @@
         "layout": "0,0,2,3"
     },
     "items": [
-        {
-            "type": "teaser",
-            "color": "msx-white",
-            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/rcbvssrh.jpg",
-            "imageFiller": "height-center",
-            "action": "link:https://sportify-beta.pages.dev/match?id=2601"
-        }
+        
     ]
 }
 
