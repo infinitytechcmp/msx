@@ -4,12 +4,15 @@
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
-        "color": "msx-glass"
+        "color": "msx-glass",
+        "titleFooter": "IPL 2026"
     },
     "items": [
         {
             "type": "teaser",
             "color": "msx-white",
+            "title": "RCB VS SRH",
+            "alignment":"center",
             "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/live/rcbvssrh.jpg",
             "imageFiller": "height-center",
             "action": "link:https://sportify-beta.pages.dev/match?id=2601"
