@@ -3,10 +3,16 @@
     "headline": "Live Tv",
     "template": {
         "type": "separate",
-        "layout": "0,0,2,3"
+        "layout": "0,0,3,3"
     },
     "items": [
-        
+        {
+            "type": "teaser",
+            "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/tv/star-sports-1-hindi.jpg",
+            "imageFiller": "height-center",
+            "action": "link:https://binge-jiotv.pages.dev/play?id=1108"
+        }
     ]
 }
 
