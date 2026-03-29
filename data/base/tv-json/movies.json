@@ -51,23 +51,9 @@
         {
             "type": "teaser",
             "color": "msx-white",
-            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Kerlastory2.jpg",
-            "imageFiller": "height-center",
-            "action": "link:https://vidnest.fun/movie/1625582"
-        },
-        {
-            "type": "teaser",
-            "color": "msx-white",
             "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/jollyllb3.jpg",
             "imageFiller": "height-center",
             "action": "link:https://vidcore.net/movie/1015981"
-        },
-        {
-            "type": "teaser",
-            "color": "msx-white",
-            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Mardaani3.jpg",
-            "imageFiller": "height-center",
-            "action": "link:https://vidnest.fun/movie/1339876-3"
         },
         {
             "type": "teaser",
