@@ -11,7 +11,7 @@
             "color": "msx-white",
             "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/tv/star-sports-1-hindi.jpg",
             "imageFiller": "height-center",
-            "action": "link:https://binge-jiotv.pages.dev/play?id=1108"
+            "action": "link:https://sportify-beta.pages.dev/match?id=2602"
         }
     ]
 }
