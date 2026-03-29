@@ -3,7 +3,7 @@
     "headline": "Live Tv",
     "template": {
         "type": "separate",
-        "layout": "0,0,3,3"
+        "layout": "0,0,3,2"
     },
     "items": [
         {
