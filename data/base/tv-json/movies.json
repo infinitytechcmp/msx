@@ -9,6 +9,13 @@
         {
             "type": "teaser",
             "color": "msx-white",
+            "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/raja_shivaji.jpg",
+            "imageFiller": "height-center",
+            "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://stream.adilo.com/adilo-encoding/1HaLsOmI0XxKUjKw/fsRhAAzO/hls/media-1/stream.m3u8"
+        },
+        {
+            "type": "teaser",
+            "color": "msx-white",
             "image": "https://infinitytechcmp.github.io/msx/data/base/tv-json/ott/movies/Dhurandhar-the-revenge.jpg",
             "imageFiller": "height-center",
             "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://lizer123.site/stream/bTN1OC80MS82YzUxODQ0ODNjZjUzY2RjY2I0NzQ0MjBiMjlhOTExYy8xMDgwcC8xMDgwcC5tM3U4P2lkPQ=="
